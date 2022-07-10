@@ -1,4 +1,4 @@
-# PROJET DE SITE E-COMMERCE - SPORTIFY
+# PROJET DE SITE E-COMMERCE - Agrafes
 
 Ce projet utilise le framework [React] accompagné de son outil [ReactRedux] pour utiliser un store.
 Côté server, notre base de données est en NoSQL, sous MongoDB.
