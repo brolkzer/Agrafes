@@ -1,5 +1,5 @@
 const express = require("express");
-const productsRoutes = require("./routes/productsRoutes");
+const papeterieRoutes = require("./routes/papeterieRoutes");
 require("dotenv").config({ path: "./config/.env" });
 require("./config/database");
 
@@ -7,7 +7,7 @@ const app = express();
 
 // routes
 
-app.use("/api/products", productsRoutes);
+app.use("/api/products/papeterie", papeterieRoutes);
 
 // serveur
 

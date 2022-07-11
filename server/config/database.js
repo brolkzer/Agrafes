@@ -1,10 +1,12 @@
-const mongoose = require("mongoose");
+const { MongoClient } = require("mongodb");
 require("dotenv").config({ path: "./config/.env" });
 
-mongoose
-  .connect(
-    `mongodb+srv://${process.env.dbLogs}@cluster0.ueka0iy.mongodb.net/agrafes?retryWrites=true&w=majority`,
-    { useNewUrlParser: true, useUnifiedTopology: true }
-  )
-  .then(() => console.log("Connexion à MongoDB réussie !"))
-  .catch((err) => console.log("Connexion à MongoDB échouée !" + err));
+const client = new MongoClient(process.env.db);
+
+async function main() {
+  await client.connect();
+
+  return console.log("Connexion à MongoDB réussie");
+}
+
+main().then(console.log()).catch(console.error);
