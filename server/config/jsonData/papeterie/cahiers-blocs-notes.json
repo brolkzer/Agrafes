@@ -1,0 +1,142 @@
+[
+    {
+        "nom": "Cahier à spirales Oxford Notebook A4+ 23 x 29,7 cm - perforé 4 trous - petits carreaux - 160 pages",
+        "description": "Papier blanc 80 g quadrillé 5 x 5, avec une marge sur les côtés et des lignes en haut de page. Reliure intégrale , perforation 4 trous. Format 23 x 29,7 cm. 160 pages. Couverture grise.",
+        "prix": 80100,
+        "spec": {
+            "couleur": "gris",
+            "format(cm)": "23 x 29.7",
+            "grammage": 80,
+            "nombre de pages": 160,
+            "quadrillage": "5 x 5",
+            "type couverture": "rigide",
+            "reliure": "spirale"
+        },
+        "img": "Agrafes/client/public/assets/products/papeterie/cahiers-blocs-notes/1"
+    },
+    {
+        "nom": "Cahier spirales Clairefontaine Linicolor - A4 21 x 29,7 cm - petits carreaux - 100 pages",
+        "description": "Cahier spirale 100 pages A4 (21 x 29,7 cm). Réglure 5 x 5. Splendide couverture couleur en polypropylène qui résiste à tout. Papier 90g velouté. La couverture et le papier sont entièrement recyclables. ",
+        "prix": 52400,
+        "spec": {
+            "couleur": "bleu",
+            "format(cm)": "21 x 29.7",
+            "grammage": 90,
+            "nombre de pages": 100,
+            "quadrillage": "5 x 5",
+            "type couverture": "carton",
+            "reliure": "spirale"
+        },
+        "img": "Agrafes/client/public/assets/products/papeterie/cahiers-blocs-notes/2"
+    },
+    {
+        "nom": "Cahier spirales Clairefontaine Metric - A4 21 x 29,7 cm - grands carreaux - 180 pages",
+        "description": "Papier velin velouté blanc 90 grammes. Couverture plastifiée plus résistante et moins salissante. Reliure spirale pour plus de confort. Réglure seyès (grands carreaux). Format 21 cm x 29,7 cm. 180 pages.",
+        "prix": 59500,
+        "spec": {
+            "couleur": "rouge",
+            "format(cm)": "21 x 29.7",
+            "grammage": 90,
+            "nombre de pages": 180,
+            "quadrillage": "seyés",
+            "type couverture": "plastifiée",
+            "reliure": "spirale"
+        },
+        "img": "Agrafes/client/public/assets/products/papeterie/cahiers-blocs-notes/3"
+    },
+    {
+        "nom": "Carnet piqué Moleskine rigide 13 x 21 cm - ivoire ligné - 240 pages",
+        "description": "240 pages en papier ivoire ligné, 70 g. Couverture en simili cuir avec un bord arrondi. Reliure piquée. Equipé d'une pochette intérieure à soufflet dans laquelle vous pouvez ranger vos cartes de visite, reçus et autres feuillets. Signet marque-page en tissu pour retrouver votre page. Fermeture par élastique. Format : 13 x 21 cm.",
+        "prix": 195000,
+        "spec": {
+            "couleur": "noir",
+            "format(cm)": "13 x 21",
+            "grammage": 70,
+            "nombre de pages": 180,
+            "quadrillage": "ivoire ligné",
+            "type couverture": "rigide",
+            "reliure": "piquée"
+        },
+        "img": "Agrafes/client/public/assets/products/papeterie/cahiers-blocs-notes/4"
+    },
+    {
+        "nom": "Sachet de 400 pages copies simples grand format A4 grands carreaux Séyès 70g perforées",
+        "description": "copies simples perforées. 9 trous et coins arrondis. Grand format 21 x 29,7 cm. Grands carreaux Séyès. 70g. 400 pages. ",
+        "prix": 36500,
+        "spec": {
+            "epaisseur(mm)": 50,
+            "largeur(mm)": 211,
+            "longueur(mm)": 294,
+            "format": "50 x 211 x 294"
+        },
+        "img": "Agrafes/client/public/assets/products/papeterie/cahiers-blocs-notes/5"
+    },
+    {
+        "nom": "Notes repositionnables Post-it Energtic 76 x 76 mm - bloc de 100 feuilles",
+        "description": "Ces notes adhésives vous permettent de prendre des notes facilement et clairement. Elles sont collables sur toutes les surfaces : papier, mur, meuble ... et ne laissent pas de résidus.",
+        "prix": 16400,
+        "spec": {
+            "format(mm)": "76 x 76",
+            "nombre de feuilles": 100
+        },
+        "img": "Agrafes/client/public/assets/products/papeterie/cahiers-blocs-notes/6"
+    },
+    {
+        "nom": "Bloc cube jaune Post-it 76 x 76 mm - bloc de 450 feuilles",
+        "description": "Les feuilles se fixent sur n'importe quel support et se décollent sans laisser de trace. Bloc de 450 feuilles jaunes, 76 mm x 76 mm.",
+        "prix": 55600,
+        "spec": {
+            "format(mm)": "76 x 76",
+            "nombre de feuilles": 450
+        },
+        "img": "Agrafes/client/public/assets/products/papeterie/cahiers-blocs-notes/7"
+    },
+    {
+        "nom": "Bloc cube 800 feuilles blanc 90 x 90 mm - Maxiburo",
+        "description": "Un bloc cube économique de qualité : l'idéal pour prendre des notes rapidement ! Bloc de 800 feuilles. Dos encollé. Feuilles non adhésives. Format feuille 90 x 90 mm. Papier 80g/m² blanchi sans chlore.",
+        "prix": 47400,
+        "spec": {
+            "format(mm)": "90 x 90",
+            "nombre de feuilles": 800
+        },
+        "img": "Agrafes/client/public/assets/products/papeterie/cahiers-blocs-notes/8"
+    },
+    {
+        "nom": "Porte-bloc A4 noir 21 x 32 cm",
+        "description": "Pour formats jusqu'au A4. Pince de fixation métal. Plaque en PVC noir. ",
+        "prix": 24600,
+        "spec": {
+            "couleur": "noir",
+            "format(cm)": "21 x 32"
+        },
+        "img": "Agrafes/client/public/assets/products/papeterie/cahiers-blocs-notes/9"
+    },
+    {
+        "nom": "Porte-bloc, en aluminium et pince nickelée, A3 paysage",
+        "description": "Plaque en aluminium anodisé, bordures arrondies, peut être accroché, pince nickelée, écartement de la pince: 10 mm, épaisseur de la pince: 1 mm, dimensions: (L)450 x (P)327 x (H)15 mm",
+        "prix": 409500,
+        "spec": {
+            "capacité": "100 feuilles",
+            "format": "A3 à l'italienne"
+        },
+        "img": "Agrafes/client/public/assets/products/papeterie/cahiers-blocs-notes/10"
+    },
+    {
+        "nom": "Conférencier 'CATANA', A4, cuir nappa, noir",
+        "description": "Grand compartiment pour ranger les formats A4 sur le côté gauche, 2 passants pour stylos, calculatrice, 3 compartiments pour cartes de visite, bloc-note dimensions fermé: (L)260 x (P)20 x (H)315 mm, ",
+        "prix": 705000,
+        "spec": {
+            "format": "A4"
+        },
+        "img": "Agrafes/client/public/assets/products/papeterie/cahiers-blocs-notes/11"
+    },
+    {
+        "nom": "Marque-pages étroits couleurs vives Post-It - distributeur de 140 feuilles",
+        "description": "Une partie transparente adhésive repositionnable, 1 partie colorée permettant l'écriture. 12,7 mm de largeur.",
+        "prix": 54000,
+        "spec": {
+            "format(mm)": "12.7 x 43.1"
+        },
+        "img": "Agrafes/client/public/assets/products/papeterie/cahiers-blocs-notes/12"
+    }
+]

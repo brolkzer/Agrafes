@@ -1,0 +1,147 @@
+[
+    {
+        "nom": "Boîte de 500 enveloppes blanches 110 x 220 mm format DL avec bande protectrice, sans fenêtre - Maxiburo",
+        "description": "Solides : très beau vélin 80g, blanc ultra résistant. Grande opacité : intérieur bleu pour une confidentialité parfaite de vos envois. Fermeture par patte autocollante avec bande protectrice. Boite de 500 enveloppes. Format DL (110 x 220 mm) sans fenêtre. ",
+        "prix": 105200,
+        "spec": {
+            "format du document à envoyer": "A4 plié en 3",
+            "grammage": 80,
+            "format(mm)": "220 x 110",
+            "nombre d'enveloppes": 500,
+            "type postal": "Dl"
+        },
+        "img": "Agrafes/client/public/assets/products/papeterie/courriers/1"
+    },
+    {
+        "nom": "Enveloppe Clairefontaine blanche 162 x 229 mm - format C5 - avec fenêtre - Boîte de 250",
+        "description": "Papier extra blanc 90 g. Fermeture par patte autocollante avec bande protectrice. Format C5 (162 x 229 mm), avec fenêtre 45 x100 mm. Boîte de 250 enveloppes.",
+        "prix": 248100,
+        "spec": {
+            "format du document à envoyer": "A4 plié en 2",
+            "format(mm)": "229 x 162",
+            "nombre d'enveloppes": 250,
+            "type postal": "C5"
+        },
+        "img": "Agrafes/client/public/assets/products/papeterie/courriers/2"
+    },
+    {
+        "nom": "Enveloppe élections 90 x 140 mm - Boîte de 1000",
+        "description": "Paquet de 1 000 enveloppes. Patte non gommée : fermeture mécanique en rabattant la patte à l'intérieur de l'enveloppe. Papier 70g. Format 90 x 140 mm. Coloris disponibles : jaune, bleu, rose, vert, bulle. ",
+        "prix": 467400,
+        "spec": {
+            "grammage": 70,
+            "format(mm)": "90 x 140",
+            "nombre d'enveloppes": 1000
+        },
+        "img": "Agrafes/client/public/assets/products/papeterie/courriers/3"
+    },
+    {
+        "nom": "Paquet de 125 pochettes plates kraft brun recyclé 90g, C4 : 229 x 324mm. Autoadhésive",
+        "description": "Paquet de 125 pochettes plates kraft brun recyclé 90g, C4 : 229 x 324mm. Autoadhésive ",
+        "prix": 125000,
+        "spec": {
+            "grammage": 90,
+            "format(mm)": "70 x 230 x 325",
+            "nombre": 125
+        },
+        "img": "Agrafes/client/public/assets/products/papeterie/courriers/4"
+    },
+    {
+        "nom": "Enveloppe 110 x 220 mm 80 g sans fenêtre blanche - Boîte de 70",
+        "description": "Enveloppe non précasée. Papier velin blanc 80 g. Parfaite opacité grâce au motif de fond bleu à l'intérieur de l'enveloppe. Format DL 110 x 220 mm sans fenêtre. Fermeture sécurisée et renforcée autocollante avec bande de protection. Boîte de 70.",
+        "prix": 75400,
+        "spec": {
+            "format du document à envoyer": "A4 plié en 3",
+            "grammage": 80,
+            "format(mm)": "110 x 220",
+            "nombre d'enveloppes": 70
+        },
+        "img": "Agrafes/client/public/assets/products/papeterie/courriers/5"
+    },
+    {
+        "nom": "Pochettes kraft - enveloppes à ouverture latérale - 120g 229 X 324 mm - soufflets de 3 cm - Boite de 50",
+        "description": "Le kraft blond est une garantie de solidité et de protection pour tous vos envois. Fermeture auto-adhésive, facile à fermer. Enveloppes économiques : un rapport qualité prix sans égal.",
+        "prix": 124000,
+        "spec": {
+            "soufflet": "3cm",
+            "grammage": 120,
+            "format(mm)": "229 x 324",
+            "nombre": 50,
+            "type postal": "C4"
+        },
+        "img": "Agrafes/client/public/assets/products/papeterie/courriers/6"
+    },
+    {
+        "nom": "Pochette à bulles d'air kraft blanc 220 x 260 mm MailLite 92 g - Carton de 100 ",
+        "description": "Protection antichoc avec les bulles d'air et le papier renforcé. Pochette idéale pour les envois de produits fragiles. Film bulle à surface glissante pour faciliter l'insertion des documents ou objets. Soudures latérales renforcées évitant les déchirures. Garnissage intérieur en bulles d’air de 4 mm. Fermeture par patte autocollante avec bande protectrice. En papier kraft blanc 92 g. Format utile : 22 x 26 cm. Carton de 100. ",
+        "prix": 276600,
+        "spec": {
+            "soufflet": "sans",
+            "grammage": 80,
+            "format(mm)": "260 x 220",
+            "nombre": 100
+        },
+        "img": "Agrafes/client/public/assets/products/papeterie/courriers/7"
+    },
+    {
+        "nom": "Pochette dos carton kraft blanc La Couronne 229 x 324 - 100 gr - Paquet de 125 ",
+        "description": "Dos carton 500 g. Patte autocollante avec bande protectrice. Paquet de 125 pochettes kraft blanc dos carton format 229 x 324 mm.",
+        "prix": 899700,
+        "spec": {
+            "soufflet": "sans",
+            "grammage": 100,
+            "format(mm)": "324 x 229",
+            "nombre": 125,
+            "type postal": "C4",
+            "contenu du document": "à ne pas plier"
+        },
+        "img": "Agrafes/client/public/assets/products/papeterie/courriers/8"
+    },
+    {
+        "nom": "Etiquettes adresses 210 x 148 mm Agipa 119016 - Boîte de 200 ",
+        "description": "Universelles : compatibles avec tous formats préétablis des logiciels courants. Coins droits. Feuilles support format A4 (21 x 29,7 cm). Dimensions : 210 x 148,5 mm. Boîte de 100 feuilles, 2 étiquettes par feuille, soit 200 étiquettes au total.",
+        "prix": 204300,
+        "spec": {
+            "coins": "droits",
+            "format étiquette(mm)": "210 x 148.5",
+            "type d'impression": "jet d'encre et laser",
+            "nombre d'étiquette par page": 2,
+            "nombre d'éqtiquette par boîte": 200
+        },
+        "img": "Agrafes/client/public/assets/products/papeterie/courriers/9"
+    },
+    {
+        "nom": "Pastilles adhésives Ø 15 mm couleurs - Pochette de 168 gommettes ",
+        "description": "Gommettes idéales pour tout marquer. 8 couleurs au choix vert, bleu, rouge, jaune, noir, rose, orange, violet. Pochette de 168 pastilles adhésives de diamètre 15 mm. Référence Agipa 11184.",
+        "prix": 8900,
+        "spec": {
+            "coins": "arrondis",
+            "format(mm)": "150 x 150",
+            "nombre d'étiquette par page": 28,
+            "nombre d'éqtiquette par boîte": 168
+        },
+        "img": "Agrafes/client/public/assets/products/papeterie/courriers/10"
+    },
+    {
+        "nom": "Imprimés recommandés A4 - boîte de 150",
+        "description": "Format A4. Boîte de 150 feuilles support bureautique. Accusé de réception et code barres. Lien pour télécharger le logiciel de La Poste \"Prepasecure\", qui permet l'impression et le suivi des envois. Produit agréé par La Poste.",
+        "prix": 538600,
+        "spec": {
+            "coins": "arrondis",
+            "format(mm)": "210 x 297",
+            "type d'impression": "jet d'encre et laser",
+            "nombre d'éqtiquette par boîte": 150
+        },
+        "img": "Agrafes/client/public/assets/products/papeterie/courriers/11"
+    },
+    {
+        "nom": "Cire à cacheter",
+        "description": "Avec gomme-laque, pour une surface d'application propre, haute adhérence des cachets, pour des travaux d'art et d'artisanat, pour bricoler contenu: 6 bâtons (ancien: 9212623 / nouveau: 42034) adhère sur divers matériaux ",
+        "prix": 215000,
+        "spec": {
+            "conditionnement": "6 bâtons",
+            "lot de": "6 bâtons"
+        },
+        "img": "Agrafes/client/public/assets/products/papeterie/courriers/12"
+    }
+]

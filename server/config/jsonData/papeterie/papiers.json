@@ -1,0 +1,169 @@
+[
+    {
+        "nom": "Ramette papier blanc Clairalfa A4 80 gr de Clairefontaine - 500 feuilles",
+        "description": "Un papier blanc multifonction au toucher soyeux exclusif.Un excellent rendu pour une bonne lisibilité grace à son opacité et sa blancheur extrême (CIE 170).Son épaisseur et sa rigidité garantissent un excellent résultat sur tous les supports d'impressions et une brillance unique.Ce papier est garanti sans bourrage. Aussi bien adapté pour les impressions recto verso qu'à l'édition de rapport avec images. Format A4 (21 x 29,7 cm). Papier blanc 80g.Ramette de 500 feuilles.Fabrication française.",
+        "prix": 58500,
+        "spec": {
+            "blancheur papier": "blancheur extra",
+            "format papier": "A4",
+            "grammage": 80,
+            "nombre de feuilles": 500,
+            "hauteur(cm)": 29.7,
+            "largeur(cm)": 21
+        },
+        "img": "Agrafes/client/public/assets/products/papeterie/papiers/1"
+    },
+    {
+        "nom": "Boîte de 2500 feuilles de papier Maxiburo Speed - A4 80g blanc",
+        "description": "Blancheur et opacité standard.Indice de blancheur CIE 153. Boîte de 2500 feuilles pour plus de praticité (équivaut à 5 ramettes) ! Idéal pour copieurs, imprimantes et télécopieurs laser et adapté aux copieurs grande vitesse. Très bonne opacité, papier 80 grammes. Format A4 (21 x 29,7 cm).",
+        "prix": 297200,
+        "spec": {
+            "blancheur papier": "blancheur classique",
+            "format papier": "A4",
+            "grammage": 80,
+            "nombre de feuilles": 2500,
+            "hauteur(cm)": 29.7,
+            "largeur(cm)": 21
+        },
+        "img": "Agrafes/client/public/assets/products/papeterie/papiers/2"
+    },
+    {
+        "nom": "Ramette papier Clairefontaine Clairalfa A3 80 g - 500 feuilles - blanc",
+        "description": "Un papier blanc multifonction au toucher soyeux exclusif. Un excellent rendu pour une bonne lisibilité grâce à son opacité et sa blancheur extrême (CIE 170).Son épaisseur et sa rigidité garantissent un excellent résultat sur tous les supports d'impressions et une brillance unique. Ce papier est garanti sans bourrage. Aussi bien adapté pour les impressions recto verso qu'à l'édition de rapport avec images. Format A3 (42 x 29,7 cm). Papier blanc 80g. Ramette de 500 feuilles.",
+        "prix": 126800,
+        "spec": {
+            "blancheur papier": "blancheur élevée",
+            "format papier": "A3",
+            "grammage": 80,
+            "nombre de feuilles": 500,
+            "hauteur(cm)": 42,
+            "largeur(cm)": 29.7
+        },
+        "img": "Agrafes/client/public/assets/products/papeterie/papiers/3"
+    },
+    {
+        "nom": "Ramette papier Clairefontaine Clairalfa A5 14,8 x 21 cm - 80 gr - 500 feuilles - blanc",
+        "description": "Un papier au toucher soyeux exclusif. Opacité extrême, blancheur extrême CIE 170. Epaisseur et rigidité garantissant un excellent résultat sur tous les supports d'impressions. Format A5 - 80 g.",
+        "prix": 53200,
+        "spec": {
+            "blancheur papier": "blancheur élevée",
+            "format papier": "A5",
+            "grammage": 80,
+            "nombre de feuilles": 500,
+            "hauteur(cm)": 21,
+            "largeur(cm)": 14.8
+        },
+        "img": "Agrafes/client/public/assets/products/papeterie/papiers/4"
+    },
+    {
+        "nom": "Papier listing Exacompta traitement de texte 2 exemplaires 240 x 305 mm - Carton de 1000",
+        "description": "Découpe nette comparable à celle d'une cisaille. Listing en continu de très belle qualité courrier. Format avant découpe : 240 x 305 mm (12'). 70g, 2 exemplaires. Carton de 1000.",
+        "prix": 869100,
+        "spec": {
+            "couleur": "blanche",
+            "format listing en pouces": 12,
+            "grammage": 70,
+            "nombre de feuilles": 1000,
+            "longueur(cm)": 305,
+            "largeur(cm)": 240,
+            "Nombre d'exemplaires": 2
+        },
+        "img": "Agrafes/client/public/assets/products/papeterie/papiers/5"
+    },
+    {
+        "nom": "Papier listing traitement de texte 240 x 280 mm - Carton de 2000",
+        "description": "Découpe nette comparable à celle d'une cisaille. Listing en continu de très belle qualité courrier. Format avant découpe : 240 x 280 mm (11'). 70g, 1 exemplaire. Carton de 2000 ",
+        "prix": 411800,
+        "spec": {
+            "couleur": "blanche",
+            "format listing en pouces": 11,
+            "grammage": 70,
+            "nombre de feuilles": 2000,
+            "longueur(cm)": 280,
+            "largeur(cm)": 240,
+            "Nombre d'exemplaires": 1
+        },
+        "img": "Agrafes/client/public/assets/products/papeterie/papiers/6"
+    },
+    {
+        "nom": "Papier photo semi-glacé HP Everyday A4 200 g - 100 feuilles",
+        "description": "Finition: glacé. Taille: A4. Poids: 200g/m². Quantité: 100 feuilles. Le papier idéal pour une utilisation familiale, les illustrations scolaires et personnelles, les tests avant impression haute résolution. ",
+        "prix": 223800,
+        "spec": {
+            "couleur": "blanc",
+            "grammage": 200,
+            "nombre de feuilles": 100,
+            "hauteur(cm)": 29.7,
+            "largeur(cm)": 21,
+            "type d'impression": "Jet d'encre",
+            "finition papier photo": "Glacé brillant"
+        },
+        "img": "Agrafes/client/public/assets/products/papeterie/papiers/7"
+    },
+    {
+        "nom": "Papier photo couché Epson A3 100 g - 100 feuilles",
+        "description": "Papier couché qualité photo. Format : A3. Gammage : 100g. Paquet de 100 feuilles. Référence EPSON: S041068. ",
+        "prix": 587600,
+        "spec": {
+            "couleur": "blanc",
+            "grammage": 100,
+            "nombre de feuilles": 100,
+            "hauteur(cm)": 42,
+            "largeur(cm)": 29.7,
+            "type d'impression": "Jet d'encre",
+            "finition papier photo": "Couché"
+        },
+        "img": "Agrafes/client/public/assets/products/papeterie/papiers/8"
+    },
+    {
+        "nom": "Pamette papier mat Clairefontaine DCP A3 160 gr - 250 feuilles - blanc",
+        "description": "Le papier DCP garantit un rendu des couleurs exceptionnel sur imprimantes laser couleurs et photocopieurs couleurs. Excellente opacité. Blancheur norme CIE 168. Finition mate. Compatible avec les imprimantes jet d'encre couleurs. Ramette de 250 feuilles format A3 160 grammes.",
+        "prix": 244000,
+        "spec": {
+            "blancheur papier": "blancheur élevée",
+            "grammage": 160,
+            "nombre de feuilles": 250,
+            "hauteur(cm)": 42,
+            "largeur(cm)": 29.7
+        },
+        "img": "Agrafes/client/public/assets/products/papeterie/papiers/9"
+    },
+    {
+        "nom": "Ramette 250 feuilles papier extra Blanc satiné PRO DESIGN A4 250G CIE 168",
+        "description": "ProDesign Impression Laser couleur professionnelle. Extra Blanc satiné. Qualité graphique, offrant des impressions au rendu photographique. Impression recto/verso.",
+        "prix": 279000,
+        "spec": {
+            "blancheur papier": "blancheur élevée",
+            "nombre de feuilles": 250,
+            "hauteur(cm)": 31.5,
+            "largeur(cm)": 21.6,
+            "epaisseur(cm)": 6.4
+        },
+        "img": "Agrafes/client/public/assets/products/papeterie/papiers/10"
+    },
+    {
+        "nom": "Rouleau calque, l 297 mm x L 20 m, très transparent ",
+        "description": "Canson Rouleau Calque. Papier satiné. Grammage : 40/45 g/m2. Contenu : 1 rouleau ",
+        "prix": 76900,
+        "spec": {
+            "dimensions H x L x P": "297mm x 20m",
+            "dimensions rouleau L x l": "297mm x 20m",
+            "grammage": 40,
+            "taille": "satiné"
+        },
+        "img": "Agrafes/client/public/assets/products/papeterie/papiers/11"
+    },
+    {
+        "nom": "Kraft vergé rame 250F A4 90g",
+        "description": "Papier Kraft vergé brun 90g idéal pour les techniques sèches et humides. Très résistant, ne se déchire pas sous l'effet de l'humidité, excellente stabilité dimensionnelle. Couleur naturelle, chaleureuse et très tendance. Idéal pour donner du relief aux créations. Certifié PEFC pour une gestion responsable des forêts. ",
+        "prix": 159300,
+        "spec": {
+            "grammage": 90,
+            "nombre de feuilles": 250,
+            "hauteur(cm)": 29.7,
+            "largeur(cm)": 21
+        },
+        "img": "Agrafes/client/public/assets/products/papeterie/papiers/12"
+    }
+
+]
