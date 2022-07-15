@@ -1,0 +1,73 @@
+[
+    {
+        "nom": "Ciseaux de bureau ambidextres 17 cm - Maxiburo",
+        "description": "Lames d'acier inoxydable à bouts pointus. Anneaux avec surmoulage pour une parfaite prise en main. Longueur 17 cm ",
+        "prix": 11500,
+        "spec": {
+            "dimensions H x L x P(cm)": " x 17 x",
+            "modele ciseaux": "ambidextre"
+
+        },
+        "img": "Agrafes/client/public/assets/products/fournitures/coupe/1"
+    },
+    {
+        "nom": "Cutter professionnel Wonday métal 18 mm",
+        "description": "Corps métal strié pour une prise en main optimisée. Grip caoutchouc antiglisse. Guide lame de sécurité et bouton poussoir autobloquant. Lame acier inoxydable. ",
+        "prix": 74100,
+        "spec": {
+            "dimensions H x L x P(cm)": "2 x 4",
+            "systeme de blocage": "bouton poussoir",
+            "embout casse-lames": "non"
+
+        },
+        "img": "Agrafes/client/public/assets/products/fournitures/coupe/2"
+    },
+    {
+        "nom": "Lames pour cutter d'atelier Olfa 18 mm - Etui de 10",
+        "description": "Distributeur de lame pour cutter rétractable 18 mm. 10 lames de rechange en étui-distributeur avec réserve pour lame cassées. ",
+        "prix": 105100,
+        "spec": {
+            "lame(cm)": 18
+
+        },
+        "img": "Agrafes/client/public/assets/products/fournitures/coupe/3"
+    },
+    {
+        "nom": "Massicot rotatif recyclé Fiskars Titanium A4",
+        "description": "Base en résine 100% recyclée. Capacité de coupe : jusqu'à 15 feuilles de 80 gr. Longueur de coupe 30 cm. Graduation indiquée en pouces. Lame Titanium 3 fois plus dure qu'une lame en acier. Bande de coupe 4 faces longue durée. Alignement facile grâce à l'échelle et la grille de mesure imprimées en blanc. Tiroir de rangement de lames sur la base pour plus de sécurité et de confort. Plateau L 32 x P 37 cm. Dimensions hors tout : H 8,5 x L 38,5 x P 44,5 cm. Pieds antidérapants ",
+        "prix": 779000,
+        "spec": {
+            "capacité de coupes": "15 feuilles",
+            "format de coupe": "A4",
+            "profondeur(cm)": 44.5,
+            "couleur": "noir",
+            "type de lames": "titanium",
+            "dimensions H x L x P(cm)": "8.5 x 38.5 x 44.5",
+            "verrou de blocage": "non"
+
+        },
+        "img": "Agrafes/client/public/assets/products/fournitures/coupe/4"
+    },
+    {
+        "nom": "Lames trapézoïdales Fiskars pour cutter de sécurité 18 mm - Etui de 10 lames",
+        "description": "Lames trapézoïdales, 18 mm. Compatibes avec le cutter de sécurité Fiskars 18 mm référence 702012. ",
+        "prix": 50100,
+        "spec": {
+            "type de lames": "titanium",
+            "lame(mm)": 18
+
+        },
+        "img": "Agrafes/client/public/assets/products/fournitures/coupe/5"
+    },
+    {
+        "nom": "Plaque coupe Wonday PVC 90 x 60 cm",
+        "description": "Plaque de coupe grade B. Dispose d'une face quadrillée. Matière : PVC recyclée. Format : 90 x 60 x 0,3 cm ",
+        "prix": 405100,
+        "spec": {
+            "dimensions H x L x P(cm)": "90 x 60 x 0.3",
+            "couleur": "vert"
+
+        },
+        "img": "Agrafes/client/public/assets/products/fournitures/coupe/6"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "nom": "Agrafeuse pince Leitz 5548 gris-bleu - agrafes 24/6 ou 26/6 - capacité de 30 feuilles",
+        "description": "Agrafage 30 feuilles. Magasin 150 agrafes 24 /6 ou 210 agrafes 26/6. Profondeur de gorge 5,4 cm. Pour agrafes 24/6 ou 26/6.",
+        "prix": 127800,
+        "spec": {
+            "capacité d'agrafage": "30 feuilles",
+            "dimensions H x L(cm)": "7.7 x 3.6",
+            "profondeur de gorge(cm)": 5.4,
+            "capcité du magasin": "150 agrafes",
+            "type d'agrafes": "24/6, 26/6"
+        },
+        "img": "Agrafes/client/public/assets/products/fournitures/agrafage/1"
+    },
+    {
+        "nom": "Agrafeuse pince Stanley Bostitch P3 gris - agrafes SP 19/6 - capacité de 20 feuilles",
+        "description": "Une efficacité à toutes épreuves ! Agrafeuse manuelle robuste, souple et ergonomique. Profondeur de gorge de 6,5 cm. Capacité du magasin importante : 210 agrafes SP 19-06. ",
+        "prix": 304400,
+        "spec": {
+            "capacité d'agrafage": "20 feuilles",
+            "dimensions H x L(cm)": "8.9 x 4.1",
+            "profondeur de gorge(cm)": 6.5,
+            "capcité du magasin": "210 agrafes",
+            "type d'agrafes": "Sp 19-06"
+        },
+        "img": "Agrafes/client/public/assets/products/fournitures/agrafage/2"
+    },
+    {
+        "nom": "Agrafeuse pince Rapid K1 - agrafes 26/6 ou 26/8 - capacité de 20 à 40 feuilles",
+        "description": "Corps en acier ultra robuste. Profondeur de gorge 5,5 cm. Utilise des agrafes 26/6 (capacité 20 feuilles) et 26/8 (capacité 40 feuilles). Magasin 210 agrafes. ",
+        "prix": 259900,
+        "spec": {
+            "capacité d'agrafage": "50 feuilles",
+            "dimensions H x L(cm)": "8.5 x 2.5",
+            "profondeur de gorge(cm)": 5.5,
+            "capcité du magasin": "210 agrafes",
+            "type d'agrafes": "26/6 galvanisées"
+        },
+        "img": "Agrafes/client/public/assets/products/fournitures/agrafage/3"
+    },
+    {
+        "nom": "Agrafeuse forte Rapesco - grande capacité",
+        "description": "Corps interne entièrement métallique, haute résistance. Chargement par le devant avec bouton poussoir. Base caoutchouc antidérapante. Profondeur de gorge réglable de 0.7 à 6 cm. Capacité d'agrafage : 100 feuilles. Coloris noir. Dimensions : H 15,5 x L 8 x P 34 cm. Pour agrafes fortes 23/08, 23/10, 23/12 et 23/15. N'accepte pas les agrafes fortes 23/06, 23/17, 23/20 et 23/24. ",
+        "prix": 414500,
+        "spec": {
+            "capacité d'agrafage": "120 feuilles",
+            "dimensions H x L(cm)": "15.5 x 8",
+            "profondeur de gorge(cm)": "0.7 à 6",
+            "capcité du magasin": "350 agrafes",
+            "type d'agrafes": "23/10"
+        },
+        "img": "Agrafes/client/public/assets/products/fournitures/agrafage/4"
+    },
+    {
+        "nom": "Agrafes Rapid 26/6 galvanisées - Boîte de 5000",
+        "description": "Matière : acier galvanisé. Agrafes normalisées pour toutes les agrafeuses 26/6. Hauteur de l'agrafe 6 mm. Diamètre de l'agrafe : 0.405 mm. (format 26/6). Peut agrafer jusqu'à 20 feuilles.",
+        "prix": 20500,
+        "spec": {
+            "type d'agrafes": "26/6 galvanisées",
+            "couleur": "argent"
+        },
+        "img": "Agrafes/client/public/assets/products/fournitures/agrafage/5"
+    },
+    {
+        "nom": "Agrafes Rapid Standard 24/6 - Boîte de 5000",
+        "description": "Arrêtes acérées. Relient jusqu'à 20 feuilles de papier 80g/m². Boîte de 5000 agrafes. Peuvent être utilisées dans toutes les agrafeuses recevant des agrafes 24/6 et 26/6.",
+        "prix": 34800,
+        "spec": {
+            "type d'agrafes": "24/6",
+            "couleur": "argent"
+        },
+        "img": "Agrafes/client/public/assets/products/fournitures/agrafage/6"
+    }
+]

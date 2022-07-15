@@ -1,0 +1,75 @@
+[
+    {
+        "nom": "Tampon encreur personnalisé automatique Trodat Printy 4913 monochrome 7 lignes",
+        "description": "Un choix de couleur pour le capot (blanc, noir, gris, rouge, bleu, vert, turquoise, fuchsia, orange et taupe). Couleur d'encrage : Une couleur monochrome au choix (rouge, bleu ou noir). Plaque 58 x 22 mm. 5 à 7 lignes. Utilise les cassettes d'encre Trodat Printy 6/4913.",
+        "prix": 228600,
+        "spec": {
+            "format plaque(mm)": "58 x 22",
+            "couleur empreinte": "monochrome",
+            "type de tampon": "tampon de texte",
+            "encrange": "automatique",
+            "nombre de lignes max": 7
+
+        },
+        "img": "Agrafes/client/public/assets/products/fournitures/tampons/1"
+    },
+    {
+        "nom": "Tampon encreur automatique dateur standard 12 formules Trodat Printy 4817",
+        "description": "12 formules et la date sur un même tampon. 1 ligne. Date 3,8 mm. Plaque 47 x 4 mm. Réglage de la date et des formules par molette. Fabriqué avec 70 % de plastique recyclé. Formules disponibles : \"Vérifié le\" - \"Payé le\" - \"Confirmé le\" - \"Facturé le\" - Expédié le\" - Comptabilisé le\" - \"Faxé le\" - \"Par e-mail, le\" - \"Reçu le\" - \"Répondu le\" - \"Retourné le\" - \"Saisi le\". Utilise les cassettes d'encre Printy 6/4817.",
+        "prix": 220500,
+        "spec": {
+            "format plaque(mm)": "47 x 38",
+            "type de tampon": "tampon de texte et de date",
+            "encrange": "automatique"
+
+        },
+        "img": "Agrafes/client/public/assets/products/fournitures/tampons/2"
+    },
+    {
+        "nom": "Tampon dateur personnalisable Trodat Printy 4750 bicolore - 2 lignes + date",
+        "description": "Plaque caoutchouc 41 x 24 mm. 1 + 1 ligne et date. Réglage de la date par molette. 1 ou 2 lignes de texte de part et d'autre de la date. Date 4 mm. Encrage automatique bicolore (texte bleu/date rouge). Monture ergonomique. Capot noir. Utilise les cassettes d'encre Printy 6/4750/2.",
+        "prix": 380400,
+        "spec": {
+            "format plaque(mm)": "41 x 24",
+            "type de tampon": "tampon de texte et de date",
+            "encrange": "automatique",
+            "couleur empreinte": "bicolore",
+            "nombre de lignes max": 2
+
+        },
+        "img": "Agrafes/client/public/assets/products/fournitures/tampons/3"
+    },
+    {
+        "nom": "Bloc encreur Trodat pour tampon",
+        "description": "Boîtier 11 x 7 cm. Longue durée.",
+        "prix": 32500,
+        "spec": {
+            "format(cm)": "11 x 7"
+
+        },
+        "img": "Agrafes/client/public/assets/products/fournitures/tampons/4"
+    },
+    {
+        "nom": "Recharge encre standard pour tampon 28 ml ",
+        "description": "Recharge encre, contenance 28ml. Encre à base d'eau et de solvants aux couleurs intenses. Très bonne résistance à la lumière.",
+        "prix": 16200,
+        "spec": {
+            "volume(ml)": 28
+
+        },
+        "img": "Agrafes/client/public/assets/products/fournitures/tampons/5"
+    },
+    {
+        "nom": "Blister 2 recharges E/40 pour appareils Printer 40/C40. Noir",
+        "description": "Recharges pré-encrées. Blister de 2 recharges ",
+        "prix": 88500,
+        "spec": {
+            "type": "cartouche de toner",
+            "nombre de pages": 2500,
+            "dimensions H x L x P(mm)": "30 x 92 x 142",
+            "lot": "2 pieces"
+
+        },
+        "img": "Agrafes/client/public/assets/products/fournitures/tampons/6"
+    }
+]
