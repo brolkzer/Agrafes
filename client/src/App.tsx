@@ -3,7 +3,7 @@
 function App() {
 
   return (
-    <h1>Sportify</h1>
+    <h1>Agrafes</h1>
   )
 }
 
