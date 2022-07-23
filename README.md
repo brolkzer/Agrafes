@@ -19,8 +19,8 @@ puis lancer le script `npm run dev`.
 ## - Démarrer le back-end
 
 Ouvrir un terminal à la racine du dossier, se positionner sur le dosser [server] avec la commande `cd server`,
-puis lancer le script `npm start`.
+puis lancer le script `npm run dev`.
 
 ### - La database
 
-Dans le dossier `Agrafes/server/config` se trouvent les JSON des données utilisées si vous souhaitez les importer.
+Dans le dossier `Agrafes/server/data` se trouve le JSON des données utilisées si vous souhaitez les importer.

@@ -7,7 +7,7 @@ import productsRoutes from "../routes/products.routes";
 const port = config.get<number>("port")
 const app = express();
 
-// Server
+// Server & Routes
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));

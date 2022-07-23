@@ -1,0 +1,1361 @@
+[
+    {
+        "nom": "Crayon de couleur Stabilo Color couleurs assorties - Pochette de 12",
+        "description": "Crayons bois de très haute qualité. Bois solide et facile à tailler protégeant bien la mine. Mines à pigments sélectionnés pour de belles couleurs franches. Couleurs assorties ",
+        "prix": 41900,
+        "spec": {
+            "couleur": "assorties"
+        },
+        "type": "ecriture",
+        "subtype": "crayons-portemines",
+        "img": "Agrafes/client/public/assets/products/ecriture/crayons-portemines/1.webp"
+    },
+    {
+        "nom": "Crayon à papier bout gomme Stabilo Greengraph HB",
+        "description": "Produit respectueux de l'environnement, corps hexagonal bois. Crayons de papier embout gomme. Mine HB. ",
+        "prix": 6700,
+        "spec": {
+            "bout gomme": "oui"
+        },
+        "type": "ecriture",
+        "subtype": "crayons-portemines",
+        "img": "Agrafes/client/public/assets/products/ecriture/crayons-portemines/2.webp"
+    }, 
+    {
+        "nom": "Pack de 12 crayons noirs à papier HB + une gomme offerte",
+        "description": "Pack composé de : 12 crayons à papier corps noir et jaune de forme ergonomique. Une surface douce anti glisse et sa mine ultra résistante. Bois certifié, issu de forêts gérées durablement. Mine HB. 1 gomme plastique offerte ",
+        "prix": 61600,
+        "spec": {
+            "couleur": "gris",
+            "paquet de": 12
+        },
+        "type": "ecriture",
+        "subtype": "crayons-portemines",
+        "img": "Agrafes/client/public/assets/products/ecriture/crayons-portemines/3.webp"
+    }, 
+    {
+        "nom": "Taille-crayons colorés Safetool bi-matière",
+        "description": "Bi-matière, grip anti glisse. 4 coloris assortis aléatoires : bleu, jaune, vert, rouge. ",
+        "prix": 6700,
+        "spec": {
+            "couleur": "rouge"
+        },
+        "type": "ecriture",
+        "subtype": "crayons-portemines",
+        "img": "Agrafes/client/public/assets/products/ecriture/crayons-portemines/4.webp"
+    },
+    {
+        "nom": "Crayon de couleur Wonday - Boite de 144",
+        "description": "Boite de 144 crayons de couleurs. 12 couleurs assorties. Crayons hexagonaux. Hauteur 18 cm. Support de rangement en plastique ",
+        "prix": 164100,
+        "spec": {
+            "bout gomme": "non",
+            "couleur": "assorties"
+        },
+        "type": "ecriture",
+        "subtype": "crayons-portemines",
+        "img": "Agrafes/client/public/assets/products/ecriture/crayons-portemines/5.webp"
+    },
+    {
+        "nom": "Etui de 12 mines 0,7 mm budget",
+        "description": "Pour tous les portemines acceptant les mines 0,7 mm. Mines HB. ",
+        "prix": 3200,
+        "spec": {
+            "couleur": "noir"
+        },
+        "type": "ecriture",
+        "subtype": "crayons-portemines",
+        "img": "Agrafes/client/public/assets/products/ecriture/crayons-portemines/6.webp"
+    },{
+        "nom": "Marqueur permanent Bic 2000 pointe ogive - trait 1,7 mm",
+        "description": "Faible odeur : sans xylène ni toluène. S'utilise sur la plupart des surfaces : papier, carton, verre, plastique, métal. Bonne tenue à la lumière, à la chaleur et aux intempéries. Pointe ogive, largeur de trait 1,7 mm.",
+        "prix": 7300,
+        "spec": {
+            "largeur du tracé(mm)": 1.7,
+            "rechargeable": "non",
+            "forme de pointe": "ogive"
+        },
+        "type": "ecriture",
+        "subtype": "marqueurs",
+        "img": "Agrafes/client/public/assets/products/ecriture/marqueurs/1.webp"
+    },
+    {
+        "nom": "Marqueur permanent Pilot Twin Marker pointe 0,5 ou 0,7 mm",
+        "description": "Marqueur sans solvant toxique. Encre permmanente permettant l'écriture sur tous les supports avec un séchage rapide qui résiste à l'eau et à la lumière. Double pointe très pratique pour combiner deux tailles d'écriture complémentaires. 2 pointes, 0,5 ou 0,7 mm pour 2 types d'écriture. Corps à la couleur de l'encre. ",
+        "prix": 17100,
+        "spec": {
+            "largeur du tracé(mm)": 0.4,
+            "encre effaçable": "non",
+            "forme de pointe": "ogive",
+            "type d'encre": "encre liquide"
+        },
+        "type": "ecriture",
+        "subtype": "marqueurs",
+        "img": "Agrafes/client/public/assets/products/ecriture/marqueurs/2.webp"
+    },
+    {
+        "nom": "Marqueur peinture Edding 750 pointe ogive 2 à 4 mm ",
+        "description": "Marqueur avec une excellente adhérence, en particulier sur les surfaces lisses, poreuses et foncées. Pour un marquage couvrant sur presque tous les matériaux, comme le verre, le plastique, le bois ou le métal. Convient également pour les matériaux foncés et transparents. Très grande résistance à l'abrasion sur presque toutes les surfaces. Il resiste à l'eau et à la chaleur et a un séchage très rapide. Marqueur peinture à pointe ogive, encre permanente, à faible odeur, laquée et opaque.",
+        "prix": 37500,
+        "spec": {
+            "largeur du tracé(mm)": 2,
+            "encre effaçable": "non",
+            "forme de pointe": "ogive",
+            "rechargeable": "non",
+            "type d'encre": "encre à pigmentation"
+        },
+        "type": "ecriture",
+        "subtype": "marqueurs",
+        "img": "Agrafes/client/public/assets/products/ecriture/marqueurs/3.webp"
+    },
+    {
+        "nom": "Marqueur effaçable Bic Velleda 1741 pointe ogive 2 mm - Pochette de 4 couleurs ",
+        "description": "Pointe ogive acrylique, trait 2 mm. Encre cétone. Effaçage optimal sur toutes les surfaces effaçable à sec. Corps plastique rond. Pointe bloqué. Capuchon ventilé. Pochette de 4 marqueurs couleurs assorties : noir, bleu, rouge, vert.",
+        "prix": 34900,
+        "spec": {
+            "largeur du tracé(mm)": 2,
+            "encre effaçable": "oui",
+            "forme de pointe": "ogive",
+            "rechargeable": "non"
+        },
+        "type": "ecriture",
+        "subtype": "marqueurs",
+        "img": "Agrafes/client/public/assets/products/ecriture/marqueurs/.webp4"
+    },
+    {
+        "nom": "Pack de 30+ 6 marqueur permanent indélébile Pentel N60 pointe biseautée 3,9 à 5,5 mm noir ",
+        "description": "Idéal pour des conditions extrêmes, de -30° à +60°, en chambre froide comme en fonderie, en extérieur comme en intérieur. L'encre résiste à la pluie, la neige et à l'exposition du soleil sur tous les supports ; l'encre ne bave pas et ne s'efface pas ; elle dure dans le temps sur son support. Très longue durée d'utilisation : jusqu'à 1km d'écriture. S’utilise sur toutes surfaces : papiers, carton, bois, verre, cuir métal, plastique, céramique, PVC, plâtre, etc. Encre permanente indélébile à solvant. Corps métal rond. Pointe biseautée noire, largeur de trait 3,9 à 5,5 mm. Produit sans PVC. ",
+        "prix": 476100,
+        "spec": {
+            "largeur du tracé(mm)": 4.5,
+            "encre effaçable": "non",
+            "forme de pointe": "biseautée"
+        },
+        "type": "ecriture",
+        "subtype": "marqueurs",
+        "img": "Agrafes/client/public/assets/products/ecriture/marqueurs/5.webp"
+    },
+    {
+        "nom": "Recharge pour marqueur V-BOARD MASTER PILOT encre liquide pointe ogive fine 4,5 mm",
+        "description": "Compatible avec les marqueurs à pointe ogive fine, trait 4,5 mm. Encre liquide. Débit d'encre instantané et constant, sans secouer ni pomper. Couleurs intenses et lumineuses. ",
+        "prix": 12800,
+        "spec": {
+            "encre effaçable": "oui",
+            "type d'encre": "encre liquide"
+        },
+        "type": "ecriture",
+        "subtype": "marqueurs",
+        "img": "Agrafes/client/public/assets/products/ecriture/marqueurs/6.webp"
+    },
+    {
+        "nom": "Stylo bille Bic 4 couleurs rétractable 0,6 mm ",
+        "description": "Encre traditionnelle. Rétractable. Pointe conique Ø 0,6 mm, trait 0,4 mm. Coloris classiques : noir, bleu, rouge, vert. Fabrication française. Certifié NF Environnement et sans PVC. Tests SGS 2012/2015 pour les 4 encres. Fabrication française. ",
+        "prix": 18000,
+        "spec": {
+            "forme de pointe": "conique",
+            "rechargeable": "oui",
+            "protection pointe": "retractable",
+            "encre effaçable": "non",
+            "type d'encre": "encore à pigmentation"
+        },
+        "type": "ecriture",
+        "subtype": "stylos-feutres",
+        "img": "Agrafes/client/public/assets/products/ecriture/stylos-feutres/1.webp"
+    },
+    {
+        "nom": "Stylo roller effaçable FriXion Ball Pilot 0,7 mm",
+        "description": "Sans gomme ni effaceur d'encre, écrivez, effacez, recommencez, autant de fois que vous le voulez. Grâce à l'embout plastique, c'est sans trace, sans dépôt et sans abîmer le papier. L'encre s'efface par échauffement du papier avec l'embout spécial ! Écrivez en souplesse avec sa bille moyenne. Son grip ergonomique permet également un meilleur confort. Encre liquide. Pointe 0,7 mm, trait 0,5 mm.",
+        "prix": 19500,
+        "spec": {
+            "forme de pointe": "conique",
+            "rechargeable": "oui",
+            "protection pointe": "capuchon",
+            "encre effaçable": "oui",
+            "type d'encre": "encore liquide"
+        },
+        "type": "ecriture",
+        "subtype": "stylos-feutres",
+        "img": "Agrafes/client/public/assets/products/ecriture/stylos-feutres/2.webp"
+    },
+    {
+        "nom": "Stylos bille Bic M10 rétractable - lot de 100 dont 10 gratuits",
+        "description": "Écriture moyenne, pointe conique. Rétractable avec bouton poussoir. Boîte distributrice pratique. 2 modèles : encre bleue ou noire. ",
+        "prix": 589100,
+        "spec": {
+            "forme de pointe": "conique",
+            "protection pointe": "retractable",
+            "encre effaçable": "non",
+            "type d'encre": "encore pâte",
+            "largeur du tracé(mm)": 0.32
+        },
+        "type": "ecriture",
+        "subtype": "stylos-feutres",
+        "img": "Agrafes/client/public/assets/products/ecriture/stylos-feutres/3.webp"
+    },
+    {
+        "nom": "Stylo feutre Pilot V-Sign Pen couleurs assorties 2 mm - Pochette de 6",
+        "description": "Ecriture douce et régulière. Pointe fibre sertie métal. Niveau d'encre visible. Pochette de 6 stylos Pilot V-Sign Pen couleurs assoties : noir, bleu, rouge, violet, vert, turquoise. ",
+        "prix": 131400,
+        "spec": {
+            "forme de pointe": "conique",
+            "protection pointe": "capuchon",
+            "encre effaçable": "non",
+            "type d'encre": "encore liquide",
+            "largeur du tracé(mm)": 0.7
+        },
+        "type": "ecriture",
+        "subtype": "stylos-feutres",
+        "img": "Agrafes/client/public/assets/products/ecriture/stylos-feutres/4.webp"
+    },
+    {
+        "nom": "Stylo bille 4 couleurs Bic Shine rétractable pointe 1 mm - écriture moyenne",
+        "description": "Découvrez le style métal pour ce stylo bille 4 couleurs Bic Shine ! 4 couleurs d’encre : bleu, noir, rouge et vert. Pointe d'1 mm conique et rétractable, résistante grâce à sa bille en cabure de tungstène. Trait de 0,30 à 0,45 mm. Longueur d’écriture de 8000 m*. Encre pâte. Corps métal. Modèle rechargeable.",
+        "prix": 29800,
+        "spec": {
+            "forme de pointe": "conique",
+            "protection pointe": "retractable",
+            "rechargeable": "oui",
+            "encre effaçable": "non",
+            "type d'encre": "encore à pigmentation",
+            "largeur du tracé(mm)": 0.4
+        },
+        "type": "ecriture",
+        "subtype": "stylos-feutres",
+        "img": "Agrafes/client/public/assets/products/ecriture/stylos-feutres/5.webp"
+    },    
+    {
+        "nom": "Stylo feutre Stabilo Power couleurs assorties - Pochette de 24",
+        "description": "Pointe moyenne bloquée pour colorier ou dessiner, ultra résistante à l’écrasement. Trait constant de 2 mm. Feutres qui ne se déssèchent pas même après être restés ouverts 8 semaines. Encre lavable.Capuchon ventilé. Pochette souple de 24.",
+        "prix": 111500,
+        "spec": {
+            "forme de pointe": "conique",
+            "protection pointe": "retractable",
+            "rechargeable": "oui",
+            "type d'encre": "encore liquide",
+            "largeur du tracé(mm)": 2
+        },
+        "type": "ecriture",
+        "subtype": "stylos-feutres",
+        "img": "Agrafes/client/public/assets/products/ecriture/stylos-feutres/6.webp"
+    },
+    {
+        "nom": "Surligneur Stabilo Boss",
+        "description": "Un surligneur incontournable qui permet de se concentrer sur l'essentiel. Une qualité et précision pour tous vos besoins. Une résistance intense à la lumière sur tous les papiers. Une pointe biseautée avec deux largeurs de trait de 2 et 5 mm de haute qualité. Une encre universelle inodore à pigments à base d'eau. Une durabilité exceptionnelle grâce à un procédé anti-déssèchement, il peut rester plusieurs heures sans capuchon.",
+        "prix": 7700,
+        "spec": {
+            "largeur du tracé(mm)": 2,
+            "encre effaçable": "non",
+            "forme de pointe": "biseautée",
+            "rechargeable": "non",
+            "type d'encre": "encre à pigmentation"
+        },
+        "type": "ecriture",
+        "subtype": "surligneurs",
+        "img": "Agrafes/client/public/assets/products/ecriture/surligneurs/1.webp"
+    },
+    {
+        "nom": "Surligneur Stabilo Boss couleurs assorties - Pochette de 8",
+        "description": "Stabilos incontournables pour se concentrer sur les informations essentielles. Un produit de qualité avec une résistance intense à la lumière sur tous les papiers. Une pointe biseautée précise avec deux largeurs de trait : 2 et 5 mm. Ils disposent d'un procédé anti-dessèchement qui permet au surligneur de rester ouvert jusqu'à 4 heures sans sécher. Encre universelle inodore à pigments à base d'eau. Pochette de 8 surligneurs couleurs assorties : vert, rose, jaune, orange, bleu, rouge, turquoise, lilas. ",
+        "prix": 71800,
+        "spec": {
+            "largeur du tracé(mm)": 2,
+            "encre effaçable": "non",
+            "forme de pointe": "biseautée",
+            "rechargeable": "non",
+            "type d'encre": "encre à pigmentation"
+        },
+        "type": "ecriture",
+        "subtype": "surligneurs",
+        "img": "Agrafes/client/public/assets/products/ecriture/surligneurs/2.webp"
+    },
+    {
+        "nom": "Surligneur Stabilo Boss couleurs assorties pastels - Pot à crayon de 6",
+        "description": "Couleurs pastel. Peut rester ouvert 4 heures sans sécher. Encre universelle est à base d’eau. Pointe biseautée offre une largeur de tracé de 2 à 5 mm. Pot à crayon avec 6 surligneurs en couleurs assorties pastels : crème de jaune, teint de pêche, menthe à l'eau, soupçon de rose, touche de turquoise et brume de lilas. ",
+        "prix": 60800,
+        "spec": {
+            "largeur du tracé(mm)": 2,
+            "encre effaçable": "non",
+            "forme de pointe": "biseautée",
+            "rechargeable": "non",
+            "type d'encre": "encre à pigmentation"
+        },
+        "type": "ecriture",
+        "subtype": "surligneurs",
+        "img": "Agrafes/client/public/assets/products/ecriture/surligneurs/3.webp"
+    },
+    {
+        "nom": "Surligneur Stabilo Navigator",
+        "description": "Son encre liquide garantit un débit d'encre régulier. Format poche. Clip pour le garder à portée de main. Niveau d'encre visible. Pointe biseautée, largeur de tracé : 1 - 4mm. ",
+        "prix": 18900,
+        "spec": {
+            "largeur du tracé(mm)": 1,
+            "encre effaçable": "non",
+            "forme de pointe": "biseautée",
+            "rechargeable": "non",
+            "type d'encre": "encre liquide"
+        },
+        "type": "ecriture",
+        "subtype": "surligneurs",
+        "img": "Agrafes/client/public/assets/products/ecriture/surligneurs/4.webp"
+    },
+    {
+        "nom": "Surligneur Pilot FriXion effaçable pointe biseautée jaune",
+        "description": "Encre thermosensible. Gomme intégrée. Corps long, bonne prise en main. A capuchon. Pointe biseautée. Trait 1 à 4 mm. Coloris jaune. ",
+        "prix": 17000,
+        "spec": {
+            "largeur du tracé(mm)": 3,
+            "encre effaçable": "oui",
+            "forme de pointe": "biseautée",
+            "rechargeable": "non",
+            "type d'encre": "encre liquide"
+        },
+        "type": "ecriture",
+        "subtype": "surligneurs",
+        "img": "Agrafes/client/public/assets/products/ecriture/surligneurs/5.webp"
+    },
+    {
+        "nom": "Surligneur Pilot V-Light",
+        "description": "Encre liquide universelle pour tous papiers. Niveau visible. Pointe biseautée de 1 à 3,5 mm.",
+        "prix": 16600,
+        "spec": {
+            "largeur du tracé(mm)": 2,
+            "encre effaçable": "non",
+            "rechargeable": "non",
+            "type d'encre": "encre liquide"
+        },
+        "type": "ecriture",
+        "subtype": "surligneurs",
+        "img": "Agrafes/client/public/assets/products/ecriture/surligneurs/6.webp"
+    },
+    {
+        "nom": "Agrafeuse pince Leitz 5548 gris-bleu - agrafes 24/6 ou 26/6 - capacité de 30 feuilles",
+        "description": "Agrafage 30 feuilles. Magasin 150 agrafes 24 /6 ou 210 agrafes 26/6. Profondeur de gorge 5,4 cm. Pour agrafes 24/6 ou 26/6.",
+        "prix": 127800,
+        "spec": {
+            "capacité d'agrafage": "30 feuilles",
+            "dimensions H x L(cm)": "7.7 x 3.6",
+            "profondeur de gorge(cm)": 5.4,
+            "capcité du magasin": "150 agrafes",
+            "type d'agrafes": "24/6, 26/6"
+        },
+        "type": "fournitures",
+        "subtype": "agrafage",
+        "img": "Agrafes/client/public/assets/products/fournitures/agrafage/1.webp"
+    },
+    {
+        "nom": "Agrafeuse pince Stanley Bostitch P3 gris - agrafes SP 19/6 - capacité de 20 feuilles",
+        "description": "Une efficacité à toutes épreuves ! Agrafeuse manuelle robuste, souple et ergonomique. Profondeur de gorge de 6,5 cm. Capacité du magasin importante : 210 agrafes SP 19-06. ",
+        "prix": 304400,
+        "spec": {
+            "capacité d'agrafage": "20 feuilles",
+            "dimensions H x L(cm)": "8.9 x 4.1",
+            "profondeur de gorge(cm)": 6.5,
+            "capcité du magasin": "210 agrafes",
+            "type d'agrafes": "Sp 19-06"
+        },
+        "type": "fournitures",
+        "subtype": "agrafage",
+        "img": "Agrafes/client/public/assets/products/fournitures/agrafage/2.webp"
+    },
+    {
+        "nom": "Agrafeuse pince Rapid K1 - agrafes 26/6 ou 26/8 - capacité de 20 à 40 feuilles",
+        "description": "Corps en acier ultra robuste. Profondeur de gorge 5,5 cm. Utilise des agrafes 26/6 (capacité 20 feuilles) et 26/8 (capacité 40 feuilles). Magasin 210 agrafes. ",
+        "prix": 259900,
+        "spec": {
+            "capacité d'agrafage": "50 feuilles",
+            "dimensions H x L(cm)": "8.5 x 2.5",
+            "profondeur de gorge(cm)": 5.5,
+            "capcité du magasin": "210 agrafes",
+            "type d'agrafes": "26/6 galvanisées"
+        },
+        "type": "fournitures",
+        "subtype": "agrafage",
+        "img": "Agrafes/client/public/assets/products/fournitures/agrafage/3.webp"
+    },
+    {
+        "nom": "Agrafeuse forte Rapesco - grande capacité",
+        "description": "Corps interne entièrement métallique, haute résistance. Chargement par le devant avec bouton poussoir. Base caoutchouc antidérapante. Profondeur de gorge réglable de 0.7 à 6 cm. Capacité d'agrafage : 100 feuilles. Coloris noir. Dimensions : H 15,5 x L 8 x P 34 cm. Pour agrafes fortes 23/08, 23/10, 23/12 et 23/15. N'accepte pas les agrafes fortes 23/06, 23/17, 23/20 et 23/24. ",
+        "prix": 414500,
+        "spec": {
+            "capacité d'agrafage": "120 feuilles",
+            "dimensions H x L(cm)": "15.5 x 8",
+            "profondeur de gorge(cm)": "0.7 à 6",
+            "capcité du magasin": "350 agrafes",
+            "type d'agrafes": "23/10"
+        },
+        "type": "fournitures",
+        "subtype": "agrafage",
+        "img": "Agrafes/client/public/assets/products/fournitures/agrafage/4.webp"
+    },
+    {
+        "nom": "Agrafes Rapid 26/6 galvanisées - Boîte de 5000",
+        "description": "Matière : acier galvanisé. Agrafes normalisées pour toutes les agrafeuses 26/6. Hauteur de l'agrafe 6 mm. Diamètre de l'agrafe : 0.405 mm. (format 26/6). Peut agrafer jusqu'à 20 feuilles.",
+        "prix": 20500,
+        "spec": {
+            "type d'agrafes": "26/6 galvanisées",
+            "couleur": "argent"
+        },
+        "type": "fournitures",
+        "subtype": "agrafage",
+        "img": "Agrafes/client/public/assets/products/fournitures/agrafage/5.webp"
+    },
+    {
+        "nom": "Agrafes Rapid Standard 24/6 - Boîte de 5000",
+        "description": "Arrêtes acérées. Relient jusqu'à 20 feuilles de papier 80g/m². Boîte de 5000 agrafes. Peuvent être utilisées dans toutes les agrafeuses recevant des agrafes 24/6 et 26/6.",
+        "prix": 34800,
+        "spec": {
+            "type d'agrafes": "24/6",
+            "couleur": "argent"
+        },
+        "type": "fournitures",
+        "subtype": "agrafage",
+        "img": "Agrafes/client/public/assets/products/fournitures/agrafage/6.webp"
+    },
+    {
+        "nom": "Colle bâton UHU permanente 21 g",
+        "description": "Pose rapide et uniforme sur le support. Colle blanche inodore. Sans solvants. Ne sèche pas grâce au bouchon à vis 100% étanche",
+        "prix": 13900,
+        "spec": {
+            "contenant": "tube",
+            "type de collage": "permanant",
+            "poids(gr)": 21
+        },
+        "type": "fournitures",
+        "subtype": "colles",
+        "img": "Agrafes/client/public/assets/products/fournitures/colles/1.webp"
+    },
+    {
+        "nom": "Colle bâton UHU permanente 40 g",
+        "description": "Pose rapide et uniforme sur le support. Colle blanche inodore. Sans solvants. Ne sèche pas grâce au bouchon à vis 100% étanche.",
+        "prix": 26200,
+        "spec": {
+            "contenant": "tube",
+            "type de collage": "permanant",
+            "poids(gr)": 40
+        },
+        "type": "fournitures",
+        "subtype": "colles",
+        "img": "Agrafes/client/public/assets/products/fournitures/colles/2.webp"
+    },
+    {
+        "nom": "Colle glue liquide tube Super Glue 3 permanente 3 gr",
+        "description": "Bouchon anti-séchage. Idéal pour: le cuir, le caoutchouc, le bois, le métal, la porcelaine, le papier et le plastique. Colle en quelques secondes. Reste transparente au séchage. Sans solvant. Tube de 3 g. ",
+        "prix": 50200,
+        "spec": {
+            "contenant": "tube",
+            "type de collage": "permanant",
+            "poids(gr)": 3
+        },
+        "type": "fournitures",
+        "subtype": "colles",
+        "img": "Agrafes/client/public/assets/products/fournitures/colles/3.webp"
+    },
+    {
+        "nom": "Colle aérosol 3M permanente 400 ml",
+        "description": "Nouvelle formule qui préserve la couche d'ozone. Colle permanente pour assemblages définitifs. Idéale pour les photos, cartes, et illustrations grâce au PH neutre de l'adhésif. Transparente, elle ne tâche pas et ne gondole pas au séchage. Pouvoir couvrant : 3m². Bombe de 400 ml.",
+        "prix": 219300,
+        "spec": {
+            "contenant": "aerosol",
+            "type de collage": "permanant",
+            "volume(ml)": 400
+        },
+        "type": "fournitures",
+        "subtype": "colles",
+        "img": "Agrafes/client/public/assets/products/fournitures/colles/4.webp"
+    },
+    {
+        "nom": "Colle aérosol 3M repositionnable 400 ml",
+        "description": "Nouvelle formule qui préserve la couche d'ozone. Colle pour montages successifs (maquettes). Elle est principalement utilisée dans le marché des arts graphiques pour des applications de maquetage et prototypage. Elle vous assure un travail de précision rapide et efficace. Elle permet de coller de grandes surfaces en un rien de temps. Elle est repositionnable pendant quelques minutes puis promet une excellente adhésion dans le temps. Elle est transparente et ne tâche pas. Pouvoir couvrant de 10m² par aérosol. Bombe de 400 ml.",
+        "prix": 249900,
+        "spec": {
+            "contenant": "aerosol",
+            "type de collage": "repositionnable",
+            "volume(ml)": 400
+        },
+        "type": "fournitures",
+        "subtype": "colles",
+        "img": "Agrafes/client/public/assets/products/fournitures/colles/5.webp"
+    },
+    {
+        "nom": "Roller de colle repositionnable jetable",
+        "description": "Colle avec succès sur les matériaux tels que le papier, le carton, les photos, voire même le plastique et le verre et permet de repositionner les choses facilement et à tout moment.  Colle sans solvant et jetable. Coloration légèrement jaune qui permet de voir clairement là où la colle a été appliquée. Longueur du ruban : 8,5 M. Largeur du ruban : 8,4 mm. ",
+        "prix": 37900,
+        "spec": {
+            "contenant": "roller",
+            "type de collage": "repositionnable",
+            "type de colle": "en devidoir"
+        },
+        "type": "fournitures",
+        "subtype": "colles",
+        "img": "Agrafes/client/public/assets/products/fournitures/colles/6.webp"
+    },
+    {
+        "nom": "Ciseaux de bureau ambidextres 17 cm - Maxiburo",
+        "description": "Lames d'acier inoxydable à bouts pointus. Anneaux avec surmoulage pour une parfaite prise en main. Longueur 17 cm ",
+        "prix": 11500,
+        "spec": {
+            "dimensions H x L x P(cm)": " x 17 x",
+            "modele ciseaux": "ambidextre"
+
+        },
+        "type": "fournitures",
+        "subtype": "coupe",
+        "img": "Agrafes/client/public/assets/products/fournitures/coupe/1.webp"
+    },
+    {
+        "nom": "Cutter professionnel Wonday métal 18 mm",
+        "description": "Corps métal strié pour une prise en main optimisée. Grip caoutchouc antiglisse. Guide lame de sécurité et bouton poussoir autobloquant. Lame acier inoxydable. ",
+        "prix": 74100,
+        "spec": {
+            "dimensions H x L x P(cm)": "2 x 4",
+            "systeme de blocage": "bouton poussoir",
+            "embout casse-lames": "non"
+
+        },
+        "type": "fournitures",
+        "subtype": "coupe",
+        "img": "Agrafes/client/public/assets/products/fournitures/coupe/2.webp"
+    },
+    {
+        "nom": "Lames pour cutter d'atelier Olfa 18 mm - Etui de 10",
+        "description": "Distributeur de lame pour cutter rétractable 18 mm. 10 lames de rechange en étui-distributeur avec réserve pour lame cassées. ",
+        "prix": 105100,
+        "spec": {
+            "lame(cm)": 18
+
+        },
+        "type": "fournitures",
+        "subtype": "coupe",
+        "img": "Agrafes/client/public/assets/products/fournitures/coupe/3.webp"
+    },
+    {
+        "nom": "Massicot rotatif recyclé Fiskars Titanium A4",
+        "description": "Base en résine 100% recyclée. Capacité de coupe : jusqu'à 15 feuilles de 80 gr. Longueur de coupe 30 cm. Graduation indiquée en pouces. Lame Titanium 3 fois plus dure qu'une lame en acier. Bande de coupe 4 faces longue durée. Alignement facile grâce à l'échelle et la grille de mesure imprimées en blanc. Tiroir de rangement de lames sur la base pour plus de sécurité et de confort. Plateau L 32 x P 37 cm. Dimensions hors tout : H 8,5 x L 38,5 x P 44,5 cm. Pieds antidérapants ",
+        "prix": 779000,
+        "spec": {
+            "capacité de coupes": "15 feuilles",
+            "format de coupe": "A4",
+            "profondeur(cm)": 44.5,
+            "couleur": "noir",
+            "type de lames": "titanium",
+            "dimensions H x L x P(cm)": "8.5 x 38.5 x 44.5",
+            "verrou de blocage": "non"
+
+        },
+        "type": "fournitures",
+        "subtype": "coupe",
+        "img": "Agrafes/client/public/assets/products/fournitures/coupe/4.webp"
+    },
+    {
+        "nom": "Lames trapézoïdales Fiskars pour cutter de sécurité 18 mm - Etui de 10 lames",
+        "description": "Lames trapézoïdales, 18 mm. Compatibes avec le cutter de sécurité Fiskars 18 mm référence 702012. ",
+        "prix": 50100,
+        "spec": {
+            "type de lames": "titanium",
+            "lame(mm)": 18
+
+        },
+        "type": "fournitures",
+        "subtype": "coupe",
+        "img": "Agrafes/client/public/assets/products/fournitures/coupe/5.webp"
+    },
+    {
+        "nom": "Plaque coupe Wonday PVC 90 x 60 cm",
+        "description": "Plaque de coupe grade B. Dispose d'une face quadrillée. Matière : PVC recyclée. Format : 90 x 60 x 0,3 cm ",
+        "prix": 405100,
+        "spec": {
+            "dimensions H x L x P(cm)": "90 x 60 x 0.3",
+            "couleur": "vert"
+
+        },
+        "type": "fournitures",
+        "subtype": "coupe",
+        "img": "Agrafes/client/public/assets/products/fournitures/coupe/6.webp"
+    },
+    {
+        "nom": "Tampon encreur personnalisé automatique Trodat Printy 4913 monochrome 7 lignes",
+        "description": "Un choix de couleur pour le capot (blanc, noir, gris, rouge, bleu, vert, turquoise, fuchsia, orange et taupe). Couleur d'encrage : Une couleur monochrome au choix (rouge, bleu ou noir). Plaque 58 x 22 mm. 5 à 7 lignes. Utilise les cassettes d'encre Trodat Printy 6/4913.",
+        "prix": 228600,
+        "spec": {
+            "format plaque(mm)": "58 x 22",
+            "couleur empreinte": "monochrome",
+            "type de tampon": "tampon de texte",
+            "encrange": "automatique",
+            "nombre de lignes max": 7
+
+        },
+        "type": "fournitures",
+        "subtype": "tampons",
+        "img": "Agrafes/client/public/assets/products/fournitures/tampons/1.webp"
+    },
+    {
+        "nom": "Tampon encreur automatique dateur standard 12 formules Trodat Printy 4817",
+        "description": "12 formules et la date sur un même tampon. 1 ligne. Date 3,8 mm. Plaque 47 x 4 mm. Réglage de la date et des formules par molette. Fabriqué avec 70 % de plastique recyclé. Formules disponibles : \"Vérifié le\" - \"Payé le\" - \"Confirmé le\" - \"Facturé le\" - Expédié le\" - Comptabilisé le\" - \"Faxé le\" - \"Par e-mail, le\" - \"Reçu le\" - \"Répondu le\" - \"Retourné le\" - \"Saisi le\". Utilise les cassettes d'encre Printy 6/4817.",
+        "prix": 220500,
+        "spec": {
+            "format plaque(mm)": "47 x 38",
+            "type de tampon": "tampon de texte et de date",
+            "encrange": "automatique"
+
+        },
+        "type": "fournitures",
+        "subtype": "tampons",
+        "img": "Agrafes/client/public/assets/products/fournitures/tampons/2.webp"
+    },
+    {
+        "nom": "Tampon dateur personnalisable Trodat Printy 4750 bicolore - 2 lignes + date",
+        "description": "Plaque caoutchouc 41 x 24 mm. 1 + 1 ligne et date. Réglage de la date par molette. 1 ou 2 lignes de texte de part et d'autre de la date. Date 4 mm. Encrage automatique bicolore (texte bleu/date rouge). Monture ergonomique. Capot noir. Utilise les cassettes d'encre Printy 6/4750/2.",
+        "prix": 380400,
+        "spec": {
+            "format plaque(mm)": "41 x 24",
+            "type de tampon": "tampon de texte et de date",
+            "encrange": "automatique",
+            "couleur empreinte": "bicolore",
+            "nombre de lignes max": 2
+
+        },
+        "type": "fournitures",
+        "subtype": "tampons",
+        "img": "Agrafes/client/public/assets/products/fournitures/tampons/3.webp"
+    },
+    {
+        "nom": "Bloc encreur Trodat pour tampon",
+        "description": "Boîtier 11 x 7 cm. Longue durée.",
+        "prix": 32500,
+        "spec": {
+            "format(cm)": "11 x 7"
+
+        },
+        "type": "fournitures",
+        "subtype": "tampons",
+        "img": "Agrafes/client/public/assets/products/fournitures/tampons/4.webp"
+    },
+    {
+        "nom": "Recharge encre standard pour tampon 28 ml ",
+        "description": "Recharge encre, contenance 28ml. Encre à base d'eau et de solvants aux couleurs intenses. Très bonne résistance à la lumière.",
+        "prix": 16200,
+        "spec": {
+            "volume(ml)": 28
+
+        },
+        "type": "fournitures",
+        "subtype": "tampons",
+        "img": "Agrafes/client/public/assets/products/fournitures/tampons/5.webp"
+    },
+    {
+        "nom": "Blister 2 recharges E/40 pour appareils Printer 40/C40. Noir",
+        "description": "Recharges pré-encrées. Blister de 2 recharges ",
+        "prix": 88500,
+        "spec": {
+            "type": "cartouche de toner",
+            "nombre de pages": 2500,
+            "dimensions H x L x P(mm)": "30 x 92 x 142",
+            "lot": "2 pieces"
+
+        },
+        "type": "fournitures",
+        "subtype": "tampons",
+        "img": "Agrafes/client/public/assets/products/fournitures/tampons/6.webp"
+    },
+    {
+        "nom": "Agenda Eco semainier - Année 2023 - 21 x 27 cm",
+        "description": "Agenda semainier broché avec couverture noire plastique. Mois de Janvier à Décembre avec 1 semaines sur 2 pages. Rendez vous par demi heure de 8 h à 21 h. Espace sur la page de droite pour notes supplémentaires. Renseignements calendaires complets. Papier blanc velin 80 g. Format 21 x 27 cm.",
+        "prix": 34600,
+        "spec": {
+            "couleur": "noir",
+            "couleur papier": "blanc",
+            "format(cm)": "21 x 27",
+            "reliure": "Brochée",
+            "période": "année civile",
+            "orientation grille": "verticale"
+        },
+        "type": "papeterie",
+        "subtype": "agendas-calendriers",
+        "img": "Agrafes/client/public/assets/products/papeterie/agendas-calendriers/1.webp"
+    },
+    {
+        "nom": "Agenda journalier Bremax 2 - 2023 - 21 x 29 cm",
+        "description": "Couverture noire. Papier blanc 80 g/m². Achèvement relié au fil textile. Rdv de 7h à 22h par 1/4 h. Format 21 x 29 cm. Bremax 2 : 1 jour sur 2 pages, contenu 792 pages. Pour gérer 8 utilisateurs. Agendas de janvier à décembre. ",
+        "prix": 492600,
+        "spec": {
+            "couleur": "noir",
+            "couleur papier": "blanc",
+            "format(cm)": "21 x 29",
+            "reliure": "Brochée",
+            "période": "année civile",
+            "orientation grille": "verticale"
+        },
+        "type": "papeterie",
+        "subtype": "agendas-calendriers",
+        "img": "Agrafes/client/public/assets/products/papeterie/agendas-calendriers/2.webp"
+    },
+    {
+        "nom": "Agenda Exacompta Consultation W semainier - Année 2023 - 21 x 29,7 cm",
+        "description": "Notez votre planning hebdomadaire de janvier à décembre sur les deux pages dédiées à cet effet. Planification de rendez-vous par quart d’heure, de 7 h à 21 h. Format de 21 x 29,7 cm, cet agenda peut aussi bien rester sur votre bureau ou trouver sa place dans votre sacoche lors de vos déplacements. Elégant et résistant avec sa couverture en plastique. Choix entre 2 couleurs de couverture : bleu ou noir.",
+        "prix": 172100,
+        "spec": {
+            "couleur": "bleu",
+            "couleur papier": "blanc",
+            "format(cm)": "21 x 29",
+            "reliure": "Spirale",
+            "période": "année civile",
+            "orientation grille": "verticale"
+        },
+        "type": "papeterie",
+        "subtype": "agendas-calendriers",
+        "img": "Agrafes/client/public/assets/products/papeterie/agendas-calendriers/3.webp"
+    },
+    {
+        "nom": "Agenda Eco scolaire semainier - Année 2022/2023 - 16 x 24 cm",
+        "description": "Couverture souple noire, papier 80 g. Renseignements et calendriers. De août à juillet. ",
+        "prix": 327400,
+        "spec": {
+            "couleur": "noir",
+            "couleur papier": "blanc",
+            "format(cm)": "16 x 24",
+            "reliure": "Brochée",
+            "période": "année scolaire",
+            "orientation grille": "verticale"
+        },
+        "type": "papeterie",
+        "subtype": "agendas-calendriers",
+        "img": "Agrafes/client/public/assets/products/papeterie/agendas-calendriers/4.webp"
+    },
+    {
+        "nom": "Agenda Time & Life Pocket, 2023",
+        "description": "100 x 150 mm, 1 semaine sur 2 pages, de décembre à décembre, couverture toile grain cuir, piqure sellier, fermeture par élastique, répertoire amovible, reliure spiralée wire'o, papier blanc, atlas couleur, 32 pages de notes reposition- nables, ano-planing dépliant ",
+        "prix": 209500,
+        "spec": {
+            "couleur": "blanc",
+            "couleur papier": "blanc",
+            "format(cm)": "10 x 15"
+        },
+        "type": "papeterie",
+        "subtype": "agendas-calendriers",
+        "img": "Agrafes/client/public/assets/products/papeterie/agendas-calendriers/5.webp"
+    },
+    {
+        "nom": "Organiseur Exatime 17 Napoli - cuir pleine fleur 15 x 19 cm Semainier Septembre 2022 à Décembre 2023 - 16 mois",
+        "description": "L'authenticité d'un cuir pleine fleur veiné associé à une patte élégante. Fermeture par bouton pression. La semaine sur 2 pages à l'horizontale - amplitude horaire du lundi au samedi 8h-19h, espace de notes pour le dimanche. Papier blanc impression en bleu et gris. 4 fentes pour cartes de crédit + 1 fente pour glisser des papiers. 4 fentes pour cartes de crédit dont 1 emplacement carte avec fenêtre transparente. 1 poche pour glisser des papiers. 1 fente pour bloc note en 3e de couverture. Porte-stylo en cuir. Vendu complet avec sa recharge certifiée Imprim Vert et PEFC 100%, ainsi qu'avec intercalaires alphabétiques, feuilles de notes et feuilles répertoire téléphonique, pochette zippée pour ranger ses documents importants, 2 pochettes pour ranger ses cartes de visites, avec une règle souple transparente et un bloc quadrillé. Produit rechargeable grâce à ses 6 anneaux. ",
+        "prix": 809000,
+        "spec": {
+            "couleur": "noir",
+            "couleur papier": "blanc",
+            "format(cm)": "15 x 19",
+            "reliure": "Anneaux",
+            "période": "16 mois",
+            "orientation grille": "verticale"
+        },
+        "type": "papeterie",
+        "subtype": "agendas-calendriers",
+        "img": "Agrafes/client/public/assets/products/papeterie/agendas-calendriers/6.webp"
+    },
+    {
+        "nom": "Recharge Exatime 17 10,5 x 17,2 cm Semainier Septembre 2022 à Décembre 2023 - 16 mois",
+        "description": "La semaine sur 2 pages à l'horizontale - amplitude horaire 8h-19h du lundi au vendredi, 8-17h les samedi et dimanche. Papier blanc impression en bleu et gris. Planning de l'année en cours et de l'année suivante. Calendriers avec les Saints. Double page d'emploi du temps. Certifications : PEFC (fibres de papier issues de forêts gérées durablement) - Imprim'vert (impression respectueuse de l'environnement). Né dans les Vosges, fabriqué en France et pensé pour vous ! ",
+        "prix": 65900,
+        "spec": {
+            "couleur papier": "blanc",
+            "format(cm)": "17.2 x 10.5",
+            "période": "16 mois",
+            "orientation grille": "horizontale"
+        },
+        "type": "papeterie",
+        "subtype": "agendas-calendriers",
+        "img": "Agrafes/client/public/assets/products/papeterie/agendas-calendriers/7.webp"
+    },
+    {
+        "nom": "Calendrier semestriel mural - 38,5 x 54 cm - 7 mois - 2023",
+        "description": "Calendrier classique présentant 7 mois par face. 2 tableaux récapitulatifs des périodes de vacances scolaires et de la répartition des zones géographiques A, B et C. Vacances indiquées sur le calendrier à travers des zones de couleurs. Place disponible pour écrire dessus. Imprimé sur carton fort contrecollé 900g, papier couché mat 100 g.",
+        "prix": 12300,
+        "spec": {
+            "type couverture": "carton",
+            "format(cm)": "38.5 x 54",
+            "période": "14 mois",
+            "orientation grille": "verticale"
+        },
+        "type": "papeterie",
+        "subtype": "agendas-calendriers",
+        "img": "Agrafes/client/public/assets/products/papeterie/agendas-calendriers/8.webp"
+    },
+    {
+        "nom": "Calendrier Annuel mural - Verso carte Europe - 55 x 43 cm - 2023",
+        "description": "Carton fort contrecollé. Produit fabriqué en France. Format 55 x 43 cm. Recto: 12 mois vertical. Verso: carte Europe. Par suite d’une modification imprévue et tardive du ministère de l’Éducation nationale, les agendas et calendriers n’ont pu intégrer les changements de zones et congés scolaires. Nous invitons les utilisateurs à les retrouver sur les sites du ministère de l’Éducation nationale et des fabricants. ",
+        "prix": 29300,
+        "spec": {
+            "type couverture": "carton",
+            "format(cm)": "43 x 55",
+            "période": "12 mois",
+            "orientation grille": "verticale"
+        },
+        "type": "papeterie",
+        "subtype": "agendas-calendriers",
+        "img": "Agrafes/client/public/assets/products/papeterie/agendas-calendriers/9.webp"
+    },
+    {
+        "nom": "Calendrier annuel mural - Année 2023 - 13 mois sur le recto et blanc au verso - 43 x 65 cm",
+        "description": "Imprimé sur du papier couché mat 100 g. Sur carton fort contrecollé 1020g. Classique, 13 mois sur le recto et blanc au verso. Encart avec dates de vacances scolaires par zone et vacances lignées sur le calendrier. Produit fabriqué en France. Format 43 x 65 cm. Poids 380 g. ",
+        "prix": 21700,
+        "spec": {
+            "type couverture": "carton",
+            "format(cm)": "43 x 65",
+            "période": "13 mois",
+            "orientation grille": "verticale"
+        },
+        "type": "papeterie",
+        "subtype": "agendas-calendriers",
+        "img": "Agrafes/client/public/assets/products/papeterie/agendas-calendriers/10.webp"
+    },
+    {
+        "nom": "Sous-main, 650 x 520 mm, antidérapant",
+        "description": "Élastique, design indémodable, avec cannelure de décoration",
+        "prix": 87900,
+        "spec": {
+            "couleur": "noir",
+            "epaisseur(mm)": 10,
+            "longueur(cm)": 65.2,
+            "largeur(cm)": 52,
+            "matière": "plastique"
+        },
+        "type": "papeterie",
+        "subtype": "agendas-calendriers",
+        "img": "Agrafes/client/public/assets/products/papeterie/agendas-calendriers/11.webp"
+    },
+    {
+        "nom": "Bloc mensuel à feuillets Millésimé 2023 - Ambiance - 19 x 36 cm",
+        "description": "Carton fort contrecollé imprimé sur du papier. Œillet de fixation. 1 feuille par mois sur support avec dessins zen. Grille mensuelle avec congés scolaires. Format support : 19 x 36 cm. Format du bloc : 15,8 x 23,7 cm. Poids : 100 g.",
+        "prix": 16900,
+        "spec": {
+            "couleur papier": "blanc",
+            "format(cm)": "10 x 36",
+            "période": "année civile",
+            "type couverture": "carton"
+        },
+        "type": "papeterie",
+        "subtype": "agendas-calendriers",
+        "img": "Agrafes/client/public/assets/products/papeterie/agendas-calendriers/12.webp"
+    },
+    {
+        "nom": "Cahier à spirales Oxford Notebook A4+ 23 x 29,7 cm - perforé 4 trous - petits carreaux - 160 pages",
+        "description": "Papier blanc 80 g quadrillé 5 x 5, avec une marge sur les côtés et des lignes en haut de page. Reliure intégrale , perforation 4 trous. Format 23 x 29,7 cm. 160 pages. Couverture grise.",
+        "prix": 80100,
+        "spec": {
+            "couleur": "gris",
+            "format(cm)": "23 x 29.7",
+            "grammage": 80,
+            "nombre de pages": 160,
+            "quadrillage": "5 x 5",
+            "type couverture": "rigide",
+            "reliure": "spirale"
+        },
+        "type": "papeterie",
+        "subtype": "cahiers-blocs-notes",
+        "img": "Agrafes/client/public/assets/products/papeterie/cahiers-blocs-notes/1.webp"
+    },
+    {
+        "nom": "Cahier spirales Clairefontaine Linicolor - A4 21 x 29,7 cm - petits carreaux - 100 pages",
+        "description": "Cahier spirale 100 pages A4 (21 x 29,7 cm). Réglure 5 x 5. Splendide couverture couleur en polypropylène qui résiste à tout. Papier 90g velouté. La couverture et le papier sont entièrement recyclables. ",
+        "prix": 52400,
+        "spec": {
+            "couleur": "bleu",
+            "format(cm)": "21 x 29.7",
+            "grammage": 90,
+            "nombre de pages": 100,
+            "quadrillage": "5 x 5",
+            "type couverture": "carton",
+            "reliure": "spirale"
+        },
+        "type": "papeterie",
+        "subtype": "cahiers-blocs-notes",
+        "img": "Agrafes/client/public/assets/products/papeterie/cahiers-blocs-notes/2.webp"
+    },
+    {
+        "nom": "Cahier spirales Clairefontaine Metric - A4 21 x 29,7 cm - grands carreaux - 180 pages",
+        "description": "Papier velin velouté blanc 90 grammes. Couverture plastifiée plus résistante et moins salissante. Reliure spirale pour plus de confort. Réglure seyès (grands carreaux). Format 21 cm x 29,7 cm. 180 pages.",
+        "prix": 59500,
+        "spec": {
+            "couleur": "rouge",
+            "format(cm)": "21 x 29.7",
+            "grammage": 90,
+            "nombre de pages": 180,
+            "quadrillage": "seyés",
+            "type couverture": "plastifiée",
+            "reliure": "spirale"
+        },
+        "type": "papeterie",
+        "subtype": "cahiers-blocs-notes",
+        "img": "Agrafes/client/public/assets/products/papeterie/cahiers-blocs-notes/3.webp"
+    },
+    {
+        "nom": "Carnet piqué Moleskine rigide 13 x 21 cm - ivoire ligné - 240 pages",
+        "description": "240 pages en papier ivoire ligné, 70 g. Couverture en simili cuir avec un bord arrondi. Reliure piquée. Equipé d'une pochette intérieure à soufflet dans laquelle vous pouvez ranger vos cartes de visite, reçus et autres feuillets. Signet marque-page en tissu pour retrouver votre page. Fermeture par élastique. Format : 13 x 21 cm.",
+        "prix": 195000,
+        "spec": {
+            "couleur": "noir",
+            "format(cm)": "13 x 21",
+            "grammage": 70,
+            "nombre de pages": 180,
+            "quadrillage": "ivoire ligné",
+            "type couverture": "rigide",
+            "reliure": "piquée"
+        },
+        "type": "papeterie",
+        "subtype": "cahiers-blocs-notes",
+        "img": "Agrafes/client/public/assets/products/papeterie/cahiers-blocs-notes/4.webp"
+    },
+    {
+        "nom": "Sachet de 400 pages copies simples grand format A4 grands carreaux Séyès 70g perforées",
+        "description": "copies simples perforées. 9 trous et coins arrondis. Grand format 21 x 29,7 cm. Grands carreaux Séyès. 70g. 400 pages. ",
+        "prix": 36500,
+        "spec": {
+            "epaisseur(mm)": 50,
+            "largeur(mm)": 211,
+            "longueur(mm)": 294,
+            "format": "50 x 211 x 294"
+        },
+        "type": "papeterie",
+        "subtype": "cahiers-blocs-notes",
+        "img": "Agrafes/client/public/assets/products/papeterie/cahiers-blocs-notes/5.webp"
+    },
+    {
+        "nom": "Notes repositionnables Post-it Energtic 76 x 76 mm - bloc de 100 feuilles",
+        "description": "Ces notes adhésives vous permettent de prendre des notes facilement et clairement. Elles sont collables sur toutes les surfaces : papier, mur, meuble ... et ne laissent pas de résidus.",
+        "prix": 16400,
+        "spec": {
+            "format(mm)": "76 x 76",
+            "nombre de feuilles": 100
+        },
+        "type": "papeterie",
+        "subtype": "cahiers-blocs-notes",
+        "img": "Agrafes/client/public/assets/products/papeterie/cahiers-blocs-notes/6.webp"
+    },
+    {
+        "nom": "Bloc cube jaune Post-it 76 x 76 mm - bloc de 450 feuilles",
+        "description": "Les feuilles se fixent sur n'importe quel support et se décollent sans laisser de trace. Bloc de 450 feuilles jaunes, 76 mm x 76 mm.",
+        "prix": 55600,
+        "spec": {
+            "format(mm)": "76 x 76",
+            "nombre de feuilles": 450
+        },
+        "type": "papeterie",
+        "subtype": "cahiers-blocs-notes",
+        "img": "Agrafes/client/public/assets/products/papeterie/cahiers-blocs-notes/7.webp"
+    },
+    {
+        "nom": "Bloc cube 800 feuilles blanc 90 x 90 mm - Maxiburo",
+        "description": "Un bloc cube économique de qualité : l'idéal pour prendre des notes rapidement ! Bloc de 800 feuilles. Dos encollé. Feuilles non adhésives. Format feuille 90 x 90 mm. Papier 80g/m² blanchi sans chlore.",
+        "prix": 47400,
+        "spec": {
+            "format(mm)": "90 x 90",
+            "nombre de feuilles": 800
+        },
+        "type": "papeterie",
+        "subtype": "cahiers-blocs-notes",
+        "img": "Agrafes/client/public/assets/products/papeterie/cahiers-blocs-notes/8.webp"
+    },
+    {
+        "nom": "Porte-bloc A4 noir 21 x 32 cm",
+        "description": "Pour formats jusqu'au A4. Pince de fixation métal. Plaque en PVC noir. ",
+        "prix": 24600,
+        "spec": {
+            "couleur": "noir",
+            "format(cm)": "21 x 32"
+        },
+        "type": "papeterie",
+        "subtype": "cahiers-blocs-notes",
+        "img": "Agrafes/client/public/assets/products/papeterie/cahiers-blocs-notes/9.webp"
+    },
+    {
+        "nom": "Porte-bloc, en aluminium et pince nickelée, A3 paysage",
+        "description": "Plaque en aluminium anodisé, bordures arrondies, peut être accroché, pince nickelée, écartement de la pince: 10 mm, épaisseur de la pince: 1 mm, dimensions: (L)450 x (P)327 x (H)15 mm",
+        "prix": 409500,
+        "spec": {
+            "capacité": "100 feuilles",
+            "format": "A3 à l'italienne"
+        },
+        "type": "papeterie",
+        "subtype": "cahiers-blocs-notes",
+        "img": "Agrafes/client/public/assets/products/papeterie/cahiers-blocs-notes/10.webp"
+    },
+    {
+        "nom": "Conférencier 'CATANA', A4, cuir nappa, noir",
+        "description": "Grand compartiment pour ranger les formats A4 sur le côté gauche, 2 passants pour stylos, calculatrice, 3 compartiments pour cartes de visite, bloc-note dimensions fermé: (L)260 x (P)20 x (H)315 mm, ",
+        "prix": 705000,
+        "spec": {
+            "format": "A4"
+        },
+        "type": "papeterie",
+        "subtype": "cahiers-blocs-notes",
+        "img": "Agrafes/client/public/assets/products/papeterie/cahiers-blocs-notes/11.webp"
+    },
+    {
+        "nom": "Marque-pages étroits couleurs vives Post-It - distributeur de 140 feuilles",
+        "description": "Une partie transparente adhésive repositionnable, 1 partie colorée permettant l'écriture. 12,7 mm de largeur.",
+        "prix": 54000,
+        "spec": {
+            "format(mm)": "12.7 x 43.1"
+        },
+        "type": "papeterie",
+        "subtype": "cahiers-blocs-notes",
+        "img": "Agrafes/client/public/assets/products/papeterie/cahiers-blocs-notes/12.webp"
+    },
+    {
+        "nom": "Boîte de 500 enveloppes blanches 110 x 220 mm format DL avec bande protectrice, sans fenêtre - Maxiburo",
+        "description": "Solides : très beau vélin 80g, blanc ultra résistant. Grande opacité : intérieur bleu pour une confidentialité parfaite de vos envois. Fermeture par patte autocollante avec bande protectrice. Boite de 500 enveloppes. Format DL (110 x 220 mm) sans fenêtre. ",
+        "prix": 105200,
+        "spec": {
+            "format du document à envoyer": "A4 plié en 3",
+            "grammage": 80,
+            "format(mm)": "220 x 110",
+            "nombre d'enveloppes": 500,
+            "type postal": "Dl"
+        },
+        "type": "papeterie",
+        "subtype": "courriers",
+        "img": "Agrafes/client/public/assets/products/papeterie/courriers/1.webp"
+    },
+    {
+        "nom": "Enveloppe Clairefontaine blanche 162 x 229 mm - format C5 - avec fenêtre - Boîte de 250",
+        "description": "Papier extra blanc 90 g. Fermeture par patte autocollante avec bande protectrice. Format C5 (162 x 229 mm), avec fenêtre 45 x100 mm. Boîte de 250 enveloppes.",
+        "prix": 248100,
+        "spec": {
+            "format du document à envoyer": "A4 plié en 2",
+            "format(mm)": "229 x 162",
+            "nombre d'enveloppes": 250,
+            "type postal": "C5"
+        },
+        "type": "papeterie",
+        "subtype": "courriers",
+        "img": "Agrafes/client/public/assets/products/papeterie/courriers/2.webp"
+    },
+    {
+        "nom": "Enveloppe élections 90 x 140 mm - Boîte de 1000",
+        "description": "Paquet de 1 000 enveloppes. Patte non gommée : fermeture mécanique en rabattant la patte à l'intérieur de l'enveloppe. Papier 70g. Format 90 x 140 mm. Coloris disponibles : jaune, bleu, rose, vert, bulle. ",
+        "prix": 467400,
+        "spec": {
+            "grammage": 70,
+            "format(mm)": "90 x 140",
+            "nombre d'enveloppes": 1000
+        },
+        "type": "papeterie",
+        "subtype": "courriers",
+        "img": "Agrafes/client/public/assets/products/papeterie/courriers/3.webp"
+    },
+    {
+        "nom": "Paquet de 125 pochettes plates kraft brun recyclé 90g, C4 : 229 x 324mm. Autoadhésive",
+        "description": "Paquet de 125 pochettes plates kraft brun recyclé 90g, C4 : 229 x 324mm. Autoadhésive ",
+        "prix": 125000,
+        "spec": {
+            "grammage": 90,
+            "format(mm)": "70 x 230 x 325",
+            "nombre": 125
+        },
+        "type": "papeterie",
+        "subtype": "courriers",
+        "img": "Agrafes/client/public/assets/products/papeterie/courriers/4.webp"
+    },
+    {
+        "nom": "Enveloppe 110 x 220 mm 80 g sans fenêtre blanche - Boîte de 70",
+        "description": "Enveloppe non précasée. Papier velin blanc 80 g. Parfaite opacité grâce au motif de fond bleu à l'intérieur de l'enveloppe. Format DL 110 x 220 mm sans fenêtre. Fermeture sécurisée et renforcée autocollante avec bande de protection. Boîte de 70.",
+        "prix": 75400,
+        "spec": {
+            "format du document à envoyer": "A4 plié en 3",
+            "grammage": 80,
+            "format(mm)": "110 x 220",
+            "nombre d'enveloppes": 70
+        },
+        "type": "papeterie",
+        "subtype": "courriers",
+        "img": "Agrafes/client/public/assets/products/papeterie/courriers/5.webp"
+    },
+    {
+        "nom": "Pochettes kraft - enveloppes à ouverture latérale - 120g 229 X 324 mm - soufflets de 3 cm - Boite de 50",
+        "description": "Le kraft blond est une garantie de solidité et de protection pour tous vos envois. Fermeture auto-adhésive, facile à fermer. Enveloppes économiques : un rapport qualité prix sans égal.",
+        "prix": 124000,
+        "spec": {
+            "soufflet": "3cm",
+            "grammage": 120,
+            "format(mm)": "229 x 324",
+            "nombre": 50,
+            "type postal": "C4"
+        },
+        "type": "papeterie",
+        "subtype": "courriers",
+        "img": "Agrafes/client/public/assets/products/papeterie/courriers/6.webp"
+    },
+    {
+        "nom": "Pochette à bulles d'air kraft blanc 220 x 260 mm MailLite 92 g - Carton de 100 ",
+        "description": "Protection antichoc avec les bulles d'air et le papier renforcé. Pochette idéale pour les envois de produits fragiles. Film bulle à surface glissante pour faciliter l'insertion des documents ou objets. Soudures latérales renforcées évitant les déchirures. Garnissage intérieur en bulles d’air de 4 mm. Fermeture par patte autocollante avec bande protectrice. En papier kraft blanc 92 g. Format utile : 22 x 26 cm. Carton de 100. ",
+        "prix": 276600,
+        "spec": {
+            "soufflet": "sans",
+            "grammage": 80,
+            "format(mm)": "260 x 220",
+            "nombre": 100
+        },
+        "type": "papeterie",
+        "subtype": "courriers",
+        "img": "Agrafes/client/public/assets/products/papeterie/courriers/7.webp"
+    },
+    {
+        "nom": "Pochette dos carton kraft blanc La Couronne 229 x 324 - 100 gr - Paquet de 125 ",
+        "description": "Dos carton 500 g. Patte autocollante avec bande protectrice. Paquet de 125 pochettes kraft blanc dos carton format 229 x 324 mm.",
+        "prix": 899700,
+        "spec": {
+            "soufflet": "sans",
+            "grammage": 100,
+            "format(mm)": "324 x 229",
+            "nombre": 125,
+            "type postal": "C4",
+            "contenu du document": "à ne pas plier"
+        },
+        "type": "papeterie",
+        "subtype": "courriers",
+        "img": "Agrafes/client/public/assets/products/papeterie/courriers/8.webp"
+    },
+    {
+        "nom": "Etiquettes adresses 210 x 148 mm Agipa 119016 - Boîte de 200 ",
+        "description": "Universelles : compatibles avec tous formats préétablis des logiciels courants. Coins droits. Feuilles support format A4 (21 x 29,7 cm). Dimensions : 210 x 148,5 mm. Boîte de 100 feuilles, 2 étiquettes par feuille, soit 200 étiquettes au total.",
+        "prix": 204300,
+        "spec": {
+            "coins": "droits",
+            "format étiquette(mm)": "210 x 148.5",
+            "type d'impression": "jet d'encre et laser",
+            "nombre d'étiquette par page": 2,
+            "nombre d'éqtiquette par boîte": 200
+        },
+        "type": "papeterie",
+        "subtype": "courriers",
+        "img": "Agrafes/client/public/assets/products/papeterie/courriers/9.webp"
+    },
+    {
+        "nom": "Pastilles adhésives Ø 15 mm couleurs - Pochette de 168 gommettes ",
+        "description": "Gommettes idéales pour tout marquer. 8 couleurs au choix vert, bleu, rouge, jaune, noir, rose, orange, violet. Pochette de 168 pastilles adhésives de diamètre 15 mm. Référence Agipa 11184.",
+        "prix": 8900,
+        "spec": {
+            "coins": "arrondis",
+            "format(mm)": "150 x 150",
+            "nombre d'étiquette par page": 28,
+            "nombre d'éqtiquette par boîte": 168
+        },
+        "type": "papeterie",
+        "subtype": "courriers",
+        "img": "Agrafes/client/public/assets/products/papeterie/courriers/10.webp"
+    },
+    {
+        "nom": "Imprimés recommandés A4 - boîte de 150",
+        "description": "Format A4. Boîte de 150 feuilles support bureautique. Accusé de réception et code barres. Lien pour télécharger le logiciel de La Poste \"Prepasecure\", qui permet l'impression et le suivi des envois. Produit agréé par La Poste.",
+        "prix": 538600,
+        "spec": {
+            "coins": "arrondis",
+            "format(mm)": "210 x 297",
+            "type d'impression": "jet d'encre et laser",
+            "nombre d'éqtiquette par boîte": 150
+        },
+        "type": "papeterie",
+        "subtype": "courriers",
+        "img": "Agrafes/client/public/assets/products/papeterie/courriers/11.webp"
+    },
+    {
+        "nom": "Cire à cacheter",
+        "description": "Avec gomme-laque, pour une surface d'application propre, haute adhérence des cachets, pour des travaux d'art et d'artisanat, pour bricoler contenu: 6 bâtons (ancien: 9212623 / nouveau: 42034) adhère sur divers matériaux ",
+        "prix": 215000,
+        "spec": {
+            "conditionnement": "6 bâtons",
+            "lot de": "6 bâtons"
+        },
+        "type": "papeterie",
+        "subtype": "courriers",
+        "img": "Agrafes/client/public/assets/products/papeterie/courriers/12.webp"
+    },
+    {
+        "nom": "Ramette papier blanc Clairalfa A4 80 gr de Clairefontaine - 500 feuilles",
+        "description": "Un papier blanc multifonction au toucher soyeux exclusif.Un excellent rendu pour une bonne lisibilité grace à son opacité et sa blancheur extrême (CIE 170).Son épaisseur et sa rigidité garantissent un excellent résultat sur tous les supports d'impressions et une brillance unique.Ce papier est garanti sans bourrage. Aussi bien adapté pour les impressions recto verso qu'à l'édition de rapport avec images. Format A4 (21 x 29,7 cm). Papier blanc 80g.Ramette de 500 feuilles.Fabrication française.",
+        "prix": 58500,
+        "spec": {
+            "blancheur papier": "blancheur extra",
+            "format papier": "A4",
+            "grammage": 80,
+            "nombre de feuilles": 500,
+            "hauteur(cm)": 29.7,
+            "largeur(cm)": 21
+        },
+        "type": "papeterie",
+        "subtype": "papiers",
+        "img": "Agrafes/client/public/assets/products/papeterie/papiers/1.webp"
+    },
+    {
+        "nom": "Boîte de 2500 feuilles de papier Maxiburo Speed - A4 80g blanc",
+        "description": "Blancheur et opacité standard.Indice de blancheur CIE 153. Boîte de 2500 feuilles pour plus de praticité (équivaut à 5 ramettes) ! Idéal pour copieurs, imprimantes et télécopieurs laser et adapté aux copieurs grande vitesse. Très bonne opacité, papier 80 grammes. Format A4 (21 x 29,7 cm).",
+        "prix": 297200,
+        "spec": {
+            "blancheur papier": "blancheur classique",
+            "format papier": "A4",
+            "grammage": 80,
+            "nombre de feuilles": 2500,
+            "hauteur(cm)": 29.7,
+            "largeur(cm)": 21
+        },
+        "type": "papeterie",
+        "subtype": "papiers",
+        "img": "Agrafes/client/public/assets/products/papeterie/papiers/2.webp"
+    },
+    {
+        "nom": "Ramette papier Clairefontaine Clairalfa A3 80 g - 500 feuilles - blanc",
+        "description": "Un papier blanc multifonction au toucher soyeux exclusif. Un excellent rendu pour une bonne lisibilité grâce à son opacité et sa blancheur extrême (CIE 170).Son épaisseur et sa rigidité garantissent un excellent résultat sur tous les supports d'impressions et une brillance unique. Ce papier est garanti sans bourrage. Aussi bien adapté pour les impressions recto verso qu'à l'édition de rapport avec images. Format A3 (42 x 29,7 cm). Papier blanc 80g. Ramette de 500 feuilles.",
+        "prix": 126800,
+        "spec": {
+            "blancheur papier": "blancheur élevée",
+            "format papier": "A3",
+            "grammage": 80,
+            "nombre de feuilles": 500,
+            "hauteur(cm)": 42,
+            "largeur(cm)": 29.7
+        },
+        "type": "papeterie",
+        "subtype": "papiers",
+        "img": "Agrafes/client/public/assets/products/papeterie/papiers/3.webp"
+    },
+    {
+        "nom": "Ramette papier Clairefontaine Clairalfa A5 14,8 x 21 cm - 80 gr - 500 feuilles - blanc",
+        "description": "Un papier au toucher soyeux exclusif. Opacité extrême, blancheur extrême CIE 170. Epaisseur et rigidité garantissant un excellent résultat sur tous les supports d'impressions. Format A5 - 80 g.",
+        "prix": 53200,
+        "spec": {
+            "blancheur papier": "blancheur élevée",
+            "format papier": "A5",
+            "grammage": 80,
+            "nombre de feuilles": 500,
+            "hauteur(cm)": 21,
+            "largeur(cm)": 14.8
+        },
+        "type": "papeterie",
+        "subtype": "papiers",
+        "img": "Agrafes/client/public/assets/products/papeterie/papiers/4.webp"
+    },
+    {
+        "nom": "Papier listing Exacompta traitement de texte 2 exemplaires 240 x 305 mm - Carton de 1000",
+        "description": "Découpe nette comparable à celle d'une cisaille. Listing en continu de très belle qualité courrier. Format avant découpe : 240 x 305 mm (12'). 70g, 2 exemplaires. Carton de 1000.",
+        "prix": 869100,
+        "spec": {
+            "couleur": "blanche",
+            "format listing en pouces": 12,
+            "grammage": 70,
+            "nombre de feuilles": 1000,
+            "longueur(cm)": 305,
+            "largeur(cm)": 240,
+            "Nombre d'exemplaires": 2
+        },
+        "type": "papeterie",
+        "subtype": "papiers",
+        "img": "Agrafes/client/public/assets/products/papeterie/papiers/5.webp"
+    },
+    {
+        "nom": "Papier listing traitement de texte 240 x 280 mm - Carton de 2000",
+        "description": "Découpe nette comparable à celle d'une cisaille. Listing en continu de très belle qualité courrier. Format avant découpe : 240 x 280 mm (11'). 70g, 1 exemplaire. Carton de 2000 ",
+        "prix": 411800,
+        "spec": {
+            "couleur": "blanche",
+            "format listing en pouces": 11,
+            "grammage": 70,
+            "nombre de feuilles": 2000,
+            "longueur(cm)": 280,
+            "largeur(cm)": 240,
+            "Nombre d'exemplaires": 1
+        },
+        "type": "papeterie",
+        "subtype": "papiers",
+        "img": "Agrafes/client/public/assets/products/papeterie/papiers/6.webp"
+    },
+    {
+        "nom": "Papier photo semi-glacé HP Everyday A4 200 g - 100 feuilles",
+        "description": "Finition: glacé. Taille: A4. Poids: 200g/m². Quantité: 100 feuilles. Le papier idéal pour une utilisation familiale, les illustrations scolaires et personnelles, les tests avant impression haute résolution. ",
+        "prix": 223800,
+        "spec": {
+            "couleur": "blanc",
+            "grammage": 200,
+            "nombre de feuilles": 100,
+            "hauteur(cm)": 29.7,
+            "largeur(cm)": 21,
+            "type d'impression": "Jet d'encre",
+            "finition papier photo": "Glacé brillant"
+        },
+        "type": "papeterie",
+        "subtype": "papiers",
+        "img": "Agrafes/client/public/assets/products/papeterie/papiers/7.webp"
+    },
+    {
+        "nom": "Papier photo couché Epson A3 100 g - 100 feuilles",
+        "description": "Papier couché qualité photo. Format : A3. Gammage : 100g. Paquet de 100 feuilles. Référence EPSON: S041068. ",
+        "prix": 587600,
+        "spec": {
+            "couleur": "blanc",
+            "grammage": 100,
+            "nombre de feuilles": 100,
+            "hauteur(cm)": 42,
+            "largeur(cm)": 29.7,
+            "type d'impression": "Jet d'encre",
+            "finition papier photo": "Couché"
+        },
+        "type": "papeterie",
+        "subtype": "papiers",
+        "img": "Agrafes/client/public/assets/products/papeterie/papiers/8.webp"
+    },
+    {
+        "nom": "Pamette papier mat Clairefontaine DCP A3 160 gr - 250 feuilles - blanc",
+        "description": "Le papier DCP garantit un rendu des couleurs exceptionnel sur imprimantes laser couleurs et photocopieurs couleurs. Excellente opacité. Blancheur norme CIE 168. Finition mate. Compatible avec les imprimantes jet d'encre couleurs. Ramette de 250 feuilles format A3 160 grammes.",
+        "prix": 244000,
+        "spec": {
+            "blancheur papier": "blancheur élevée",
+            "grammage": 160,
+            "nombre de feuilles": 250,
+            "hauteur(cm)": 42,
+            "largeur(cm)": 29.7
+        },
+        "type": "papeterie",
+        "subtype": "papiers",
+        "img": "Agrafes/client/public/assets/products/papeterie/papiers/9.webp"
+    },
+    {
+        "nom": "Ramette 250 feuilles papier extra Blanc satiné PRO DESIGN A4 250G CIE 168",
+        "description": "ProDesign Impression Laser couleur professionnelle. Extra Blanc satiné. Qualité graphique, offrant des impressions au rendu photographique. Impression recto/verso.",
+        "prix": 279000,
+        "spec": {
+            "blancheur papier": "blancheur élevée",
+            "nombre de feuilles": 250,
+            "hauteur(cm)": 31.5,
+            "largeur(cm)": 21.6,
+            "epaisseur(cm)": 6.4
+        },
+        "type": "papeterie",
+        "subtype": "papiers",
+        "img": "Agrafes/client/public/assets/products/papeterie/papiers/10.webp"
+    },
+    {
+        "nom": "Rouleau calque, l 297 mm x L 20 m, très transparent ",
+        "description": "Canson Rouleau Calque. Papier satiné. Grammage : 40/45 g/m2. Contenu : 1 rouleau ",
+        "prix": 76900,
+        "spec": {
+            "dimensions H x L x P": "297mm x 20m",
+            "dimensions rouleau L x l": "297mm x 20m",
+            "grammage": 40,
+            "taille": "satiné"
+        },
+        "type": "papeterie",
+        "subtype": "papiers",
+        "img": "Agrafes/client/public/assets/products/papeterie/papiers/11.webp"
+    },
+    {
+        "nom": "Kraft vergé rame 250F A4 90g",
+        "description": "Papier Kraft vergé brun 90g idéal pour les techniques sèches et humides. Très résistant, ne se déchire pas sous l'effet de l'humidité, excellente stabilité dimensionnelle. Couleur naturelle, chaleureuse et très tendance. Idéal pour donner du relief aux créations. Certifié PEFC pour une gestion responsable des forêts. ",
+        "prix": 159300,
+        "spec": {
+            "grammage": 90,
+            "nombre de feuilles": 250,
+            "hauteur(cm)": 29.7,
+            "largeur(cm)": 21
+        },
+        "type": "papeterie",
+        "subtype": "papiers",
+        "img": "Agrafes/client/public/assets/products/papeterie/papiers/12.webp"
+    }
+]
