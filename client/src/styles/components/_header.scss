@@ -1,0 +1,125 @@
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 1rem;
+  background-color: $color-2;
+  width: 100vw;
+  .headerLeft {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    margin-left: 1rem;
+
+    .logoDiv {
+      .logoImg {
+        width: 150px;
+        height: 150px;
+      }
+    }
+
+    .headerForm {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      max-width: 750px;
+
+      h1 {
+        font-size: 32px;
+        color: $color-1;
+      }
+
+      form {
+        input {
+          width: 100%;
+          padding: 0.5rem;
+          padding-left: 1rem;
+          border: 1px solid $color-1;
+          border-radius: 25px;
+          font-size: 18px;
+          font-weight: 600;
+          font-family: $font-1, sans-serif;
+          color: $black-light;
+        }
+      }
+    }
+  }
+
+  .headerRight {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    gap: 2rem;
+
+    .accountDiv {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: center;
+      gap: 1rem;
+      min-width: 200px;
+
+      .accountIcon {
+        .fa-user {
+          width: 2rem;
+          height: 2rem;
+          color: $color-1;
+          border: 2px solid $color-2;
+          border-radius: 100%;
+          background-color: white;
+          padding: 1rem;
+          cursor: pointer;
+
+          &:hover {
+            border: 2px solid $color-1;
+          }
+        }
+      }
+
+      .accountMenu {
+        p {
+          font-size: 20px;
+          color: $color-1;
+        }
+      }
+    }
+
+    .cartDiv {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: center;
+      gap: 1rem;
+      margin-right: 1rem;
+      min-width: 185px;
+
+      .cartButton {
+        border-radius: 100%;
+        border: 1px solid $color-2;
+        background-color: white;
+
+        .fa-cart-shopping {
+          width: 2rem;
+          height: 2rem;
+          color: $color-1;
+          border: 2px solid $color-2;
+          border-radius: 100%;
+          background-color: white;
+          padding: 1rem;
+          cursor: pointer;
+
+          &:hover {
+            border: 2px solid $color-1;
+          }
+        }
+      }
+
+      .cartDetails {
+        p {
+          font-size: 20px;
+          color: $color-1;
+        }
+      }
+    }
+  }
+}

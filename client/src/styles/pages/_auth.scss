@@ -1,0 +1,56 @@
+.bgAuth {
+  background-color: darken($color-1, 25%);
+  min-width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  .authDiv {
+    overflow: hidden;
+    width: 50vw;
+    height: 50vh;
+    border-radius: 25px;
+    background-color: $color-2;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+
+    h1 {
+      color: $color-1;
+    }
+
+    form {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+  }
+
+  .authButtons {
+    position: absolute;
+    top: 10px;
+    width: 100%;
+
+    .authButton {
+      height: 40px;
+      width: 50%;
+      padding: 0.5rem;
+      background-color: rgb(228, 228, 228);
+      border-radius: 25px;
+      border: 1px solid $color-2;
+      font-size: 18px;
+      font-weight: 600;
+      color: $color-1;
+
+      &:hover {
+        cursor: pointer;
+        font-size: 198x;
+        border: 2px solid $color-1;
+      }
+    }
+  }
+}
