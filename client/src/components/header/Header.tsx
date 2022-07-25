@@ -1,7 +1,12 @@
 import Header_account from "./Header_account";
 import Header_cart from "./Header_cart";
 
-const Header = () => {
+type uidProps = {
+  uid: object | any;
+};
+
+const Header = ({ uid }: uidProps) => {
+  // console.log(uid);
   return (
     <header>
       <div className="headerLeft">
@@ -16,7 +21,7 @@ const Header = () => {
         </div>
       </div>
       <div className="headerRight">
-        <Header_account />
+        <Header_account uid={uid} />
 
         <Header_cart />
       </div>

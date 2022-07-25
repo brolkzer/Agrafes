@@ -30,28 +30,29 @@ const Register = () => {
 
   return (
     <>
-      <h1>S'inscrire'</h1>
-      <form onSubmit={(e) => handleRegister(e)} className="">
-        <input
-          type="email"
-          placeholder="Adresse e-mail"
-          required
-          ref={registerEmail}
-        />
-        <input
-          type="password"
-          placeholder="Mot de passe"
-          required
-          ref={registerPassword}
-        />
-        <input
-          type="text"
-          placeholder="Nom"
-          required
-          onChange={(e) => setDisplayName(e.target.value)}
-        />
-        <input type="submit" value="Valider l'inscription" />
-      </form>
+      <div className="formDiv">
+        <form onSubmit={(e) => handleRegister(e)}>
+          <input
+            type="email"
+            placeholder="Adresse e-mail"
+            required
+            ref={registerEmail}
+          />
+          <input
+            type="password"
+            placeholder="Mot de passe"
+            required
+            ref={registerPassword}
+          />
+          <input
+            type="text"
+            placeholder="Nom"
+            required
+            onChange={(e) => setDisplayName(e.target.value)}
+          />
+          <input type="submit" value="Valider l'inscription" />
+        </form>
+      </div>
     </>
   );
 };

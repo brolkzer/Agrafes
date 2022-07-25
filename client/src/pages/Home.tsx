@@ -1,12 +1,18 @@
-import React from "react";
+import React, { useState } from "react";
 import Header from "../components/header/Header";
+import NavMenu from "../components/home/NavMenu";
 
-const Home = () => {
+type uidProps = {
+  uid: object | any;
+};
+
+const Home = ({ uid }: uidProps) => {
   return (
     <>
-      <Header />
-      <div>
-        <h1>HOME</h1>
+      <Header uid={uid} />
+      <div className="homeDiv">
+        <NavMenu />
+        div.
       </div>
     </>
   );

@@ -7,7 +7,7 @@ import { onAuthStateChanged } from "firebase/auth";
 import { auth } from "./utils/firebaseConnection";
 
 function App() {
-  const [uid, setUid] = useState(null);
+  const [uid, setUid] = useState<object | any>(null);
 
   onAuthStateChanged(auth, (currentUser: any) => setUid(currentUser));
   return (
@@ -15,13 +15,18 @@ function App() {
       <Routes>
         {uid ? (
           <>
-            <Route path="/" element={<Home />} />
+            <Route path="/" element={<Home uid={uid} />} />
+            <Route path="/auth" element={<Home uid={uid} />} />
             <Route path="/About" element={<About />} />
-            <Route path="/auth" element={<Auth />} />
-            <Route path="*" element={<Home />} />
+            <Route path="*" element={<Home uid={uid} />} />
           </>
         ) : (
-          <Route path="*" element={<Auth />} />
+          <>
+            <Route path="/" element={<Home uid={uid} />} />
+            <Route path="/About" element={<About />} />
+            <Route path="/Auth" element={<Auth />} />
+            <Route path="*" element={<Home uid={uid} />} />
+          </>
         )}
       </Routes>
     </>

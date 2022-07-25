@@ -77,6 +77,12 @@ header {
       }
 
       .accountMenu {
+        .logRedir {
+          text-decoration: underline;
+          &:hover {
+            cursor: pointer;
+          }
+        }
         p {
           font-size: 20px;
           color: $color-1;

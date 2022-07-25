@@ -8,7 +8,6 @@ const Header_cart = () => {
         <FontAwesomeIcon icon={faCartShopping} />
       </button>
       <div className="cartDetails">
-        <p>Mon panier</p>
         <p className="cartPrice">00,00 €</p>
       </div>
     </div>
