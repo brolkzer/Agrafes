@@ -16,15 +16,15 @@ function App() {
         {uid ? (
           <>
             <Route path="/" element={<Home uid={uid} />} />
-            <Route path="/auth" element={<Home uid={uid} />} />
-            <Route path="/About" element={<About />} />
+            <Route path="/auth" element={<Auth uid={uid} />} />
+            <Route path="/About" element={<About uid={uid} />} />
             <Route path="*" element={<Home uid={uid} />} />
           </>
         ) : (
           <>
             <Route path="/" element={<Home uid={uid} />} />
-            <Route path="/About" element={<About />} />
-            <Route path="/Auth" element={<Auth />} />
+            <Route path="/About" element={<About uid={uid} />} />
+            <Route path="/Auth" element={<Auth uid={uid} />} />
             <Route path="*" element={<Home uid={uid} />} />
           </>
         )}

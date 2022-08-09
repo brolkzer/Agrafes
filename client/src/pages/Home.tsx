@@ -1,5 +1,7 @@
 import React, { useState } from "react";
 import Header from "../components/header/Header";
+import HomeDesc from "../components/home/HomeDesc";
+import Incontournables from "../components/home/Incontournables";
 import NavMenu from "../components/home/NavMenu";
 
 type uidProps = {
@@ -11,8 +13,9 @@ const Home = ({ uid }: uidProps) => {
     <>
       <Header uid={uid} />
       <div className="homeDiv">
+        <HomeDesc />
         <NavMenu />
-        div.
+        <Incontournables />
       </div>
     </>
   );

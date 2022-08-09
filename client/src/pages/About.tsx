@@ -1,10 +1,13 @@
 import React from "react";
 import Header from "../components/header/Header";
 
-const About = () => {
+type uidProps = {
+  uid: object | any;
+};
+const About = ({ uid }: uidProps) => {
   return (
     <>
-      <Header />
+      <Header uid={uid} />
       <div>
         <h1>ABOUT</h1>
       </div>

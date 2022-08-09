@@ -6,12 +6,14 @@ type uidProps = {
 };
 
 const Header = ({ uid }: uidProps) => {
-  // console.log(uid);
   return (
     <header>
-      <div className="headerLeft">
+      <div className="headerLeft" id="top">
         <div className="logoDiv">
-          <img className="logoImg" src="/assets/Logo_250x250.webp" alt="" />
+          <a href="/Home">
+            {" "}
+            <img className="logoImg" src="/assets/Logo_250x250.webp" alt="" />
+          </a>
         </div>
         <div className="headerForm">
           <h1>Votre référence de vente de fournitures en ligne !</h1>

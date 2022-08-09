@@ -17,12 +17,12 @@ const Header_account = ({ uid }: uidProps) => {
           {uid ? (
             `Bonjour ${uid.displayName}`
           ) : (
-            <p
+            <span
               className="logRedir"
               onClick={() => (window.location.href = "/Auth")}
             >
               Se connecter
-            </p>
+            </span>
           )}
         </p>
         {uid ? <Logout /> : null}

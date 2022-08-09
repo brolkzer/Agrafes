@@ -1,4 +1,11 @@
 .authDiv {
+  .already-logged {
+    margin-bottom: 1rem;
+    color: white;
+  }
+  .redirection-home {
+    color: $color-2;
+  }
   .formDiv {
     display: flex;
     flex-direction: column;
