@@ -8,7 +8,7 @@
         },
         "type": "ecriture",
         "subtype": "crayons-portemines",
-        "img": "Agrafes/client/public/assets/products/ecriture/crayons-portemines/1.webp"
+        "img": "/products/ecriture/crayons-portemines/1.webp"
     },
     {
         "nom": "Crayon à papier bout gomme Stabilo Greengraph HB",
@@ -19,7 +19,7 @@
         },
         "type": "ecriture",
         "subtype": "crayons-portemines",
-        "img": "Agrafes/client/public/assets/products/ecriture/crayons-portemines/2.webp"
+        "img": "/products/ecriture/crayons-portemines/2.webp"
     }, 
     {
         "nom": "Pack de 12 crayons noirs à papier HB + une gomme offerte",
@@ -31,7 +31,7 @@
         },
         "type": "ecriture",
         "subtype": "crayons-portemines",
-        "img": "Agrafes/client/public/assets/products/ecriture/crayons-portemines/3.webp"
+        "img": "/products/ecriture/crayons-portemines/3.webp"
     }, 
     {
         "nom": "Taille-crayons colorés Safetool bi-matière",
@@ -42,7 +42,7 @@
         },
         "type": "ecriture",
         "subtype": "crayons-portemines",
-        "img": "Agrafes/client/public/assets/products/ecriture/crayons-portemines/4.webp"
+        "img": "/products/ecriture/crayons-portemines/4.webp"
     },
     {
         "nom": "Crayon de couleur Wonday - Boite de 144",
@@ -54,7 +54,7 @@
         },
         "type": "ecriture",
         "subtype": "crayons-portemines",
-        "img": "Agrafes/client/public/assets/products/ecriture/crayons-portemines/5.webp"
+        "img": "/products/ecriture/crayons-portemines/5.webp"
     },
     {
         "nom": "Etui de 12 mines 0,7 mm budget",
@@ -65,7 +65,7 @@
         },
         "type": "ecriture",
         "subtype": "crayons-portemines",
-        "img": "Agrafes/client/public/assets/products/ecriture/crayons-portemines/6.webp"
+        "img": "/products/ecriture/crayons-portemines/6.webp"
     },{
         "nom": "Marqueur permanent Bic 2000 pointe ogive - trait 1,7 mm",
         "description": "Faible odeur : sans xylène ni toluène. S'utilise sur la plupart des surfaces : papier, carton, verre, plastique, métal. Bonne tenue à la lumière, à la chaleur et aux intempéries. Pointe ogive, largeur de trait 1,7 mm.",
@@ -77,7 +77,7 @@
         },
         "type": "ecriture",
         "subtype": "marqueurs",
-        "img": "Agrafes/client/public/assets/products/ecriture/marqueurs/1.webp"
+        "img": "/products/ecriture/marqueurs/1.webp"
     },
     {
         "nom": "Marqueur permanent Pilot Twin Marker pointe 0,5 ou 0,7 mm",
@@ -91,7 +91,7 @@
         },
         "type": "ecriture",
         "subtype": "marqueurs",
-        "img": "Agrafes/client/public/assets/products/ecriture/marqueurs/2.webp"
+        "img": "/products/ecriture/marqueurs/2.webp"
     },
     {
         "nom": "Marqueur peinture Edding 750 pointe ogive 2 à 4 mm ",
@@ -106,7 +106,7 @@
         },
         "type": "ecriture",
         "subtype": "marqueurs",
-        "img": "Agrafes/client/public/assets/products/ecriture/marqueurs/3.webp"
+        "img": "/products/ecriture/marqueurs/3.webp"
     },
     {
         "nom": "Marqueur effaçable Bic Velleda 1741 pointe ogive 2 mm - Pochette de 4 couleurs ",
@@ -120,7 +120,7 @@
         },
         "type": "ecriture",
         "subtype": "marqueurs",
-        "img": "Agrafes/client/public/assets/products/ecriture/marqueurs/.webp4"
+        "img": "/products/ecriture/marqueurs/.webp4"
     },
     {
         "nom": "Pack de 30+ 6 marqueur permanent indélébile Pentel N60 pointe biseautée 3,9 à 5,5 mm noir ",
@@ -133,7 +133,7 @@
         },
         "type": "ecriture",
         "subtype": "marqueurs",
-        "img": "Agrafes/client/public/assets/products/ecriture/marqueurs/5.webp"
+        "img": "/products/ecriture/marqueurs/5.webp"
     },
     {
         "nom": "Recharge pour marqueur V-BOARD MASTER PILOT encre liquide pointe ogive fine 4,5 mm",
@@ -145,7 +145,7 @@
         },
         "type": "ecriture",
         "subtype": "marqueurs",
-        "img": "Agrafes/client/public/assets/products/ecriture/marqueurs/6.webp"
+        "img": "/products/ecriture/marqueurs/6.webp"
     },
     {
         "nom": "Stylo bille Bic 4 couleurs rétractable 0,6 mm ",
@@ -160,7 +160,7 @@
         },
         "type": "ecriture",
         "subtype": "stylos-feutres",
-        "img": "Agrafes/client/public/assets/products/ecriture/stylos-feutres/1.webp"
+        "img": "/products/ecriture/stylos-feutres/1.webp"
     },
     {
         "nom": "Stylo roller effaçable FriXion Ball Pilot 0,7 mm",
@@ -175,7 +175,7 @@
         },
         "type": "ecriture",
         "subtype": "stylos-feutres",
-        "img": "Agrafes/client/public/assets/products/ecriture/stylos-feutres/2.webp"
+        "img": "/products/ecriture/stylos-feutres/2.webp"
     },
     {
         "nom": "Stylos bille Bic M10 rétractable - lot de 100 dont 10 gratuits",
@@ -190,7 +190,7 @@
         },
         "type": "ecriture",
         "subtype": "stylos-feutres",
-        "img": "Agrafes/client/public/assets/products/ecriture/stylos-feutres/3.webp"
+        "img": "/products/ecriture/stylos-feutres/3.webp"
     },
     {
         "nom": "Stylo feutre Pilot V-Sign Pen couleurs assorties 2 mm - Pochette de 6",
@@ -205,7 +205,7 @@
         },
         "type": "ecriture",
         "subtype": "stylos-feutres",
-        "img": "Agrafes/client/public/assets/products/ecriture/stylos-feutres/4.webp"
+        "img": "/products/ecriture/stylos-feutres/4.webp"
     },
     {
         "nom": "Stylo bille 4 couleurs Bic Shine rétractable pointe 1 mm - écriture moyenne",
@@ -221,7 +221,7 @@
         },
         "type": "ecriture",
         "subtype": "stylos-feutres",
-        "img": "Agrafes/client/public/assets/products/ecriture/stylos-feutres/5.webp"
+        "img": "/products/ecriture/stylos-feutres/5.webp"
     },    
     {
         "nom": "Stylo feutre Stabilo Power couleurs assorties - Pochette de 24",
@@ -236,7 +236,7 @@
         },
         "type": "ecriture",
         "subtype": "stylos-feutres",
-        "img": "Agrafes/client/public/assets/products/ecriture/stylos-feutres/6.webp"
+        "img": "/products/ecriture/stylos-feutres/6.webp"
     },
     {
         "nom": "Surligneur Stabilo Boss",
@@ -251,7 +251,7 @@
         },
         "type": "ecriture",
         "subtype": "surligneurs",
-        "img": "Agrafes/client/public/assets/products/ecriture/surligneurs/1.webp"
+        "img": "/products/ecriture/surligneurs/1.webp"
     },
     {
         "nom": "Surligneur Stabilo Boss couleurs assorties - Pochette de 8",
@@ -266,7 +266,7 @@
         },
         "type": "ecriture",
         "subtype": "surligneurs",
-        "img": "Agrafes/client/public/assets/products/ecriture/surligneurs/2.webp"
+        "img": "/products/ecriture/surligneurs/2.webp"
     },
     {
         "nom": "Surligneur Stabilo Boss couleurs assorties pastels - Pot à crayon de 6",
@@ -281,7 +281,7 @@
         },
         "type": "ecriture",
         "subtype": "surligneurs",
-        "img": "Agrafes/client/public/assets/products/ecriture/surligneurs/3.webp"
+        "img": "/products/ecriture/surligneurs/3.webp"
     },
     {
         "nom": "Surligneur Stabilo Navigator",
@@ -296,7 +296,7 @@
         },
         "type": "ecriture",
         "subtype": "surligneurs",
-        "img": "Agrafes/client/public/assets/products/ecriture/surligneurs/4.webp"
+        "img": "/products/ecriture/surligneurs/4.webp"
     },
     {
         "nom": "Surligneur Pilot FriXion effaçable pointe biseautée jaune",
@@ -311,7 +311,7 @@
         },
         "type": "ecriture",
         "subtype": "surligneurs",
-        "img": "Agrafes/client/public/assets/products/ecriture/surligneurs/5.webp"
+        "img": "/products/ecriture/surligneurs/5.webp"
     },
     {
         "nom": "Surligneur Pilot V-Light",
@@ -325,7 +325,7 @@
         },
         "type": "ecriture",
         "subtype": "surligneurs",
-        "img": "Agrafes/client/public/assets/products/ecriture/surligneurs/6.webp"
+        "img": "/products/ecriture/surligneurs/6.webp"
     },
     {
         "nom": "Agrafeuse pince Leitz 5548 gris-bleu - agrafes 24/6 ou 26/6 - capacité de 30 feuilles",
@@ -340,7 +340,7 @@
         },
         "type": "fournitures",
         "subtype": "agrafage",
-        "img": "Agrafes/client/public/assets/products/fournitures/agrafage/1.webp"
+        "img": "/products/fournitures/agrafage/1.webp"
     },
     {
         "nom": "Agrafeuse pince Stanley Bostitch P3 gris - agrafes SP 19/6 - capacité de 20 feuilles",
@@ -355,7 +355,7 @@
         },
         "type": "fournitures",
         "subtype": "agrafage",
-        "img": "Agrafes/client/public/assets/products/fournitures/agrafage/2.webp"
+        "img": "/products/fournitures/agrafage/2.webp"
     },
     {
         "nom": "Agrafeuse pince Rapid K1 - agrafes 26/6 ou 26/8 - capacité de 20 à 40 feuilles",
@@ -370,7 +370,7 @@
         },
         "type": "fournitures",
         "subtype": "agrafage",
-        "img": "Agrafes/client/public/assets/products/fournitures/agrafage/3.webp"
+        "img": "/products/fournitures/agrafage/3.webp"
     },
     {
         "nom": "Agrafeuse forte Rapesco - grande capacité",
@@ -385,7 +385,7 @@
         },
         "type": "fournitures",
         "subtype": "agrafage",
-        "img": "Agrafes/client/public/assets/products/fournitures/agrafage/4.webp"
+        "img": "/products/fournitures/agrafage/4.webp"
     },
     {
         "nom": "Agrafes Rapid 26/6 galvanisées - Boîte de 5000",
@@ -397,7 +397,7 @@
         },
         "type": "fournitures",
         "subtype": "agrafage",
-        "img": "Agrafes/client/public/assets/products/fournitures/agrafage/5.webp"
+        "img": "/products/fournitures/agrafage/5.webp"
     },
     {
         "nom": "Agrafes Rapid Standard 24/6 - Boîte de 5000",
@@ -409,7 +409,7 @@
         },
         "type": "fournitures",
         "subtype": "agrafage",
-        "img": "Agrafes/client/public/assets/products/fournitures/agrafage/6.webp"
+        "img": "/products/fournitures/agrafage/6.webp"
     },
     {
         "nom": "Colle bâton UHU permanente 21 g",
@@ -422,7 +422,7 @@
         },
         "type": "fournitures",
         "subtype": "colles",
-        "img": "Agrafes/client/public/assets/products/fournitures/colles/1.webp"
+        "img": "/products/fournitures/colles/1.webp"
     },
     {
         "nom": "Colle bâton UHU permanente 40 g",
@@ -435,7 +435,7 @@
         },
         "type": "fournitures",
         "subtype": "colles",
-        "img": "Agrafes/client/public/assets/products/fournitures/colles/2.webp"
+        "img": "/products/fournitures/colles/2.webp"
     },
     {
         "nom": "Colle glue liquide tube Super Glue 3 permanente 3 gr",
@@ -448,7 +448,7 @@
         },
         "type": "fournitures",
         "subtype": "colles",
-        "img": "Agrafes/client/public/assets/products/fournitures/colles/3.webp"
+        "img": "/products/fournitures/colles/3.webp"
     },
     {
         "nom": "Colle aérosol 3M permanente 400 ml",
@@ -461,7 +461,7 @@
         },
         "type": "fournitures",
         "subtype": "colles",
-        "img": "Agrafes/client/public/assets/products/fournitures/colles/4.webp"
+        "img": "/products/fournitures/colles/4.webp"
     },
     {
         "nom": "Colle aérosol 3M repositionnable 400 ml",
@@ -474,7 +474,7 @@
         },
         "type": "fournitures",
         "subtype": "colles",
-        "img": "Agrafes/client/public/assets/products/fournitures/colles/5.webp"
+        "img": "/products/fournitures/colles/5.webp"
     },
     {
         "nom": "Roller de colle repositionnable jetable",
@@ -487,7 +487,7 @@
         },
         "type": "fournitures",
         "subtype": "colles",
-        "img": "Agrafes/client/public/assets/products/fournitures/colles/6.webp"
+        "img": "/products/fournitures/colles/6.webp"
     },
     {
         "nom": "Ciseaux de bureau ambidextres 17 cm - Maxiburo",
@@ -500,7 +500,7 @@
         },
         "type": "fournitures",
         "subtype": "coupe",
-        "img": "Agrafes/client/public/assets/products/fournitures/coupe/1.webp"
+        "img": "/products/fournitures/coupe/1.webp"
     },
     {
         "nom": "Cutter professionnel Wonday métal 18 mm",
@@ -514,7 +514,7 @@
         },
         "type": "fournitures",
         "subtype": "coupe",
-        "img": "Agrafes/client/public/assets/products/fournitures/coupe/2.webp"
+        "img": "/products/fournitures/coupe/2.webp"
     },
     {
         "nom": "Lames pour cutter d'atelier Olfa 18 mm - Etui de 10",
@@ -526,7 +526,7 @@
         },
         "type": "fournitures",
         "subtype": "coupe",
-        "img": "Agrafes/client/public/assets/products/fournitures/coupe/3.webp"
+        "img": "/products/fournitures/coupe/3.webp"
     },
     {
         "nom": "Massicot rotatif recyclé Fiskars Titanium A4",
@@ -544,7 +544,7 @@
         },
         "type": "fournitures",
         "subtype": "coupe",
-        "img": "Agrafes/client/public/assets/products/fournitures/coupe/4.webp"
+        "img": "/products/fournitures/coupe/4.webp"
     },
     {
         "nom": "Lames trapézoïdales Fiskars pour cutter de sécurité 18 mm - Etui de 10 lames",
@@ -557,7 +557,7 @@
         },
         "type": "fournitures",
         "subtype": "coupe",
-        "img": "Agrafes/client/public/assets/products/fournitures/coupe/5.webp"
+        "img": "/products/fournitures/coupe/5.webp"
     },
     {
         "nom": "Plaque coupe Wonday PVC 90 x 60 cm",
@@ -570,7 +570,7 @@
         },
         "type": "fournitures",
         "subtype": "coupe",
-        "img": "Agrafes/client/public/assets/products/fournitures/coupe/6.webp"
+        "img": "/products/fournitures/coupe/6.webp"
     },
     {
         "nom": "Tampon encreur personnalisé automatique Trodat Printy 4913 monochrome 7 lignes",
@@ -586,7 +586,7 @@
         },
         "type": "fournitures",
         "subtype": "tampons",
-        "img": "Agrafes/client/public/assets/products/fournitures/tampons/1.webp"
+        "img": "/products/fournitures/tampons/1.webp"
     },
     {
         "nom": "Tampon encreur automatique dateur standard 12 formules Trodat Printy 4817",
@@ -600,7 +600,7 @@
         },
         "type": "fournitures",
         "subtype": "tampons",
-        "img": "Agrafes/client/public/assets/products/fournitures/tampons/2.webp"
+        "img": "/products/fournitures/tampons/2.webp"
     },
     {
         "nom": "Tampon dateur personnalisable Trodat Printy 4750 bicolore - 2 lignes + date",
@@ -616,7 +616,7 @@
         },
         "type": "fournitures",
         "subtype": "tampons",
-        "img": "Agrafes/client/public/assets/products/fournitures/tampons/3.webp"
+        "img": "/products/fournitures/tampons/3.webp"
     },
     {
         "nom": "Bloc encreur Trodat pour tampon",
@@ -628,7 +628,7 @@
         },
         "type": "fournitures",
         "subtype": "tampons",
-        "img": "Agrafes/client/public/assets/products/fournitures/tampons/4.webp"
+        "img": "/products/fournitures/tampons/4.webp"
     },
     {
         "nom": "Recharge encre standard pour tampon 28 ml ",
@@ -640,7 +640,7 @@
         },
         "type": "fournitures",
         "subtype": "tampons",
-        "img": "Agrafes/client/public/assets/products/fournitures/tampons/5.webp"
+        "img": "/products/fournitures/tampons/5.webp"
     },
     {
         "nom": "Blister 2 recharges E/40 pour appareils Printer 40/C40. Noir",
@@ -655,7 +655,7 @@
         },
         "type": "fournitures",
         "subtype": "tampons",
-        "img": "Agrafes/client/public/assets/products/fournitures/tampons/6.webp"
+        "img": "/products/fournitures/tampons/6.webp"
     },
     {
         "nom": "Agenda Eco semainier - Année 2023 - 21 x 27 cm",
@@ -671,7 +671,7 @@
         },
         "type": "papeterie",
         "subtype": "agendas-calendriers",
-        "img": "Agrafes/client/public/assets/products/papeterie/agendas-calendriers/1.webp"
+        "img": "/products/papeterie/agendas-calendriers/1.webp"
     },
     {
         "nom": "Agenda journalier Bremax 2 - 2023 - 21 x 29 cm",
@@ -687,7 +687,7 @@
         },
         "type": "papeterie",
         "subtype": "agendas-calendriers",
-        "img": "Agrafes/client/public/assets/products/papeterie/agendas-calendriers/2.webp"
+        "img": "/products/papeterie/agendas-calendriers/2.webp"
     },
     {
         "nom": "Agenda Exacompta Consultation W semainier - Année 2023 - 21 x 29,7 cm",
@@ -703,7 +703,7 @@
         },
         "type": "papeterie",
         "subtype": "agendas-calendriers",
-        "img": "Agrafes/client/public/assets/products/papeterie/agendas-calendriers/3.webp"
+        "img": "/products/papeterie/agendas-calendriers/3.webp"
     },
     {
         "nom": "Agenda Eco scolaire semainier - Année 2022/2023 - 16 x 24 cm",
@@ -719,7 +719,7 @@
         },
         "type": "papeterie",
         "subtype": "agendas-calendriers",
-        "img": "Agrafes/client/public/assets/products/papeterie/agendas-calendriers/4.webp"
+        "img": "/products/papeterie/agendas-calendriers/4.webp"
     },
     {
         "nom": "Agenda Time & Life Pocket, 2023",
@@ -732,7 +732,7 @@
         },
         "type": "papeterie",
         "subtype": "agendas-calendriers",
-        "img": "Agrafes/client/public/assets/products/papeterie/agendas-calendriers/5.webp"
+        "img": "/products/papeterie/agendas-calendriers/5.webp"
     },
     {
         "nom": "Organiseur Exatime 17 Napoli - cuir pleine fleur 15 x 19 cm Semainier Septembre 2022 à Décembre 2023 - 16 mois",
@@ -748,7 +748,7 @@
         },
         "type": "papeterie",
         "subtype": "agendas-calendriers",
-        "img": "Agrafes/client/public/assets/products/papeterie/agendas-calendriers/6.webp"
+        "img": "/products/papeterie/agendas-calendriers/6.webp"
     },
     {
         "nom": "Recharge Exatime 17 10,5 x 17,2 cm Semainier Septembre 2022 à Décembre 2023 - 16 mois",
@@ -762,7 +762,7 @@
         },
         "type": "papeterie",
         "subtype": "agendas-calendriers",
-        "img": "Agrafes/client/public/assets/products/papeterie/agendas-calendriers/7.webp"
+        "img": "/products/papeterie/agendas-calendriers/7.webp"
     },
     {
         "nom": "Calendrier semestriel mural - 38,5 x 54 cm - 7 mois - 2023",
@@ -776,7 +776,7 @@
         },
         "type": "papeterie",
         "subtype": "agendas-calendriers",
-        "img": "Agrafes/client/public/assets/products/papeterie/agendas-calendriers/8.webp"
+        "img": "/products/papeterie/agendas-calendriers/8.webp"
     },
     {
         "nom": "Calendrier Annuel mural - Verso carte Europe - 55 x 43 cm - 2023",
@@ -790,7 +790,7 @@
         },
         "type": "papeterie",
         "subtype": "agendas-calendriers",
-        "img": "Agrafes/client/public/assets/products/papeterie/agendas-calendriers/9.webp"
+        "img": "/products/papeterie/agendas-calendriers/9.webp"
     },
     {
         "nom": "Calendrier annuel mural - Année 2023 - 13 mois sur le recto et blanc au verso - 43 x 65 cm",
@@ -804,7 +804,7 @@
         },
         "type": "papeterie",
         "subtype": "agendas-calendriers",
-        "img": "Agrafes/client/public/assets/products/papeterie/agendas-calendriers/10.webp"
+        "img": "/products/papeterie/agendas-calendriers/10.webp"
     },
     {
         "nom": "Sous-main, 650 x 520 mm, antidérapant",
@@ -819,7 +819,7 @@
         },
         "type": "papeterie",
         "subtype": "agendas-calendriers",
-        "img": "Agrafes/client/public/assets/products/papeterie/agendas-calendriers/11.webp"
+        "img": "/products/papeterie/agendas-calendriers/11.webp"
     },
     {
         "nom": "Bloc mensuel à feuillets Millésimé 2023 - Ambiance - 19 x 36 cm",
@@ -833,7 +833,7 @@
         },
         "type": "papeterie",
         "subtype": "agendas-calendriers",
-        "img": "Agrafes/client/public/assets/products/papeterie/agendas-calendriers/12.webp"
+        "img": "/products/papeterie/agendas-calendriers/12.webp"
     },
     {
         "nom": "Cahier à spirales Oxford Notebook A4+ 23 x 29,7 cm - perforé 4 trous - petits carreaux - 160 pages",
@@ -850,7 +850,7 @@
         },
         "type": "papeterie",
         "subtype": "cahiers-blocs-notes",
-        "img": "Agrafes/client/public/assets/products/papeterie/cahiers-blocs-notes/1.webp"
+        "img": "/products/papeterie/cahiers-blocs-notes/1.webp"
     },
     {
         "nom": "Cahier spirales Clairefontaine Linicolor - A4 21 x 29,7 cm - petits carreaux - 100 pages",
@@ -867,7 +867,7 @@
         },
         "type": "papeterie",
         "subtype": "cahiers-blocs-notes",
-        "img": "Agrafes/client/public/assets/products/papeterie/cahiers-blocs-notes/2.webp"
+        "img": "/products/papeterie/cahiers-blocs-notes/2.webp"
     },
     {
         "nom": "Cahier spirales Clairefontaine Metric - A4 21 x 29,7 cm - grands carreaux - 180 pages",
@@ -884,7 +884,7 @@
         },
         "type": "papeterie",
         "subtype": "cahiers-blocs-notes",
-        "img": "Agrafes/client/public/assets/products/papeterie/cahiers-blocs-notes/3.webp"
+        "img": "/products/papeterie/cahiers-blocs-notes/3.webp"
     },
     {
         "nom": "Carnet piqué Moleskine rigide 13 x 21 cm - ivoire ligné - 240 pages",
@@ -901,7 +901,7 @@
         },
         "type": "papeterie",
         "subtype": "cahiers-blocs-notes",
-        "img": "Agrafes/client/public/assets/products/papeterie/cahiers-blocs-notes/4.webp"
+        "img": "/products/papeterie/cahiers-blocs-notes/4.webp"
     },
     {
         "nom": "Sachet de 400 pages copies simples grand format A4 grands carreaux Séyès 70g perforées",
@@ -915,7 +915,7 @@
         },
         "type": "papeterie",
         "subtype": "cahiers-blocs-notes",
-        "img": "Agrafes/client/public/assets/products/papeterie/cahiers-blocs-notes/5.webp"
+        "img": "/products/papeterie/cahiers-blocs-notes/5.webp"
     },
     {
         "nom": "Notes repositionnables Post-it Energtic 76 x 76 mm - bloc de 100 feuilles",
@@ -927,7 +927,7 @@
         },
         "type": "papeterie",
         "subtype": "cahiers-blocs-notes",
-        "img": "Agrafes/client/public/assets/products/papeterie/cahiers-blocs-notes/6.webp"
+        "img": "/products/papeterie/cahiers-blocs-notes/6.webp"
     },
     {
         "nom": "Bloc cube jaune Post-it 76 x 76 mm - bloc de 450 feuilles",
@@ -939,7 +939,7 @@
         },
         "type": "papeterie",
         "subtype": "cahiers-blocs-notes",
-        "img": "Agrafes/client/public/assets/products/papeterie/cahiers-blocs-notes/7.webp"
+        "img": "/products/papeterie/cahiers-blocs-notes/7.webp"
     },
     {
         "nom": "Bloc cube 800 feuilles blanc 90 x 90 mm - Maxiburo",
@@ -951,7 +951,7 @@
         },
         "type": "papeterie",
         "subtype": "cahiers-blocs-notes",
-        "img": "Agrafes/client/public/assets/products/papeterie/cahiers-blocs-notes/8.webp"
+        "img": "/products/papeterie/cahiers-blocs-notes/8.webp"
     },
     {
         "nom": "Porte-bloc A4 noir 21 x 32 cm",
@@ -963,7 +963,7 @@
         },
         "type": "papeterie",
         "subtype": "cahiers-blocs-notes",
-        "img": "Agrafes/client/public/assets/products/papeterie/cahiers-blocs-notes/9.webp"
+        "img": "/products/papeterie/cahiers-blocs-notes/9.webp"
     },
     {
         "nom": "Porte-bloc, en aluminium et pince nickelée, A3 paysage",
@@ -975,7 +975,7 @@
         },
         "type": "papeterie",
         "subtype": "cahiers-blocs-notes",
-        "img": "Agrafes/client/public/assets/products/papeterie/cahiers-blocs-notes/10.webp"
+        "img": "/products/papeterie/cahiers-blocs-notes/10.webp"
     },
     {
         "nom": "Conférencier 'CATANA', A4, cuir nappa, noir",
@@ -986,7 +986,7 @@
         },
         "type": "papeterie",
         "subtype": "cahiers-blocs-notes",
-        "img": "Agrafes/client/public/assets/products/papeterie/cahiers-blocs-notes/11.webp"
+        "img": "/products/papeterie/cahiers-blocs-notes/11.webp"
     },
     {
         "nom": "Marque-pages étroits couleurs vives Post-It - distributeur de 140 feuilles",
@@ -997,7 +997,7 @@
         },
         "type": "papeterie",
         "subtype": "cahiers-blocs-notes",
-        "img": "Agrafes/client/public/assets/products/papeterie/cahiers-blocs-notes/12.webp"
+        "img": "/products/papeterie/cahiers-blocs-notes/12.webp"
     },
     {
         "nom": "Boîte de 500 enveloppes blanches 110 x 220 mm format DL avec bande protectrice, sans fenêtre - Maxiburo",
@@ -1012,7 +1012,7 @@
         },
         "type": "papeterie",
         "subtype": "courriers",
-        "img": "Agrafes/client/public/assets/products/papeterie/courriers/1.webp"
+        "img": "/products/papeterie/courriers/1.webp"
     },
     {
         "nom": "Enveloppe Clairefontaine blanche 162 x 229 mm - format C5 - avec fenêtre - Boîte de 250",
@@ -1026,7 +1026,7 @@
         },
         "type": "papeterie",
         "subtype": "courriers",
-        "img": "Agrafes/client/public/assets/products/papeterie/courriers/2.webp"
+        "img": "/products/papeterie/courriers/2.webp"
     },
     {
         "nom": "Enveloppe élections 90 x 140 mm - Boîte de 1000",
@@ -1039,7 +1039,7 @@
         },
         "type": "papeterie",
         "subtype": "courriers",
-        "img": "Agrafes/client/public/assets/products/papeterie/courriers/3.webp"
+        "img": "/products/papeterie/courriers/3.webp"
     },
     {
         "nom": "Paquet de 125 pochettes plates kraft brun recyclé 90g, C4 : 229 x 324mm. Autoadhésive",
@@ -1052,7 +1052,7 @@
         },
         "type": "papeterie",
         "subtype": "courriers",
-        "img": "Agrafes/client/public/assets/products/papeterie/courriers/4.webp"
+        "img": "/products/papeterie/courriers/4.webp"
     },
     {
         "nom": "Enveloppe 110 x 220 mm 80 g sans fenêtre blanche - Boîte de 70",
@@ -1066,7 +1066,7 @@
         },
         "type": "papeterie",
         "subtype": "courriers",
-        "img": "Agrafes/client/public/assets/products/papeterie/courriers/5.webp"
+        "img": "/products/papeterie/courriers/5.webp"
     },
     {
         "nom": "Pochettes kraft - enveloppes à ouverture latérale - 120g 229 X 324 mm - soufflets de 3 cm - Boite de 50",
@@ -1081,7 +1081,7 @@
         },
         "type": "papeterie",
         "subtype": "courriers",
-        "img": "Agrafes/client/public/assets/products/papeterie/courriers/6.webp"
+        "img": "/products/papeterie/courriers/6.webp"
     },
     {
         "nom": "Pochette à bulles d'air kraft blanc 220 x 260 mm MailLite 92 g - Carton de 100 ",
@@ -1095,7 +1095,7 @@
         },
         "type": "papeterie",
         "subtype": "courriers",
-        "img": "Agrafes/client/public/assets/products/papeterie/courriers/7.webp"
+        "img": "/products/papeterie/courriers/7.webp"
     },
     {
         "nom": "Pochette dos carton kraft blanc La Couronne 229 x 324 - 100 gr - Paquet de 125 ",
@@ -1111,7 +1111,7 @@
         },
         "type": "papeterie",
         "subtype": "courriers",
-        "img": "Agrafes/client/public/assets/products/papeterie/courriers/8.webp"
+        "img": "/products/papeterie/courriers/8.webp"
     },
     {
         "nom": "Etiquettes adresses 210 x 148 mm Agipa 119016 - Boîte de 200 ",
@@ -1126,7 +1126,7 @@
         },
         "type": "papeterie",
         "subtype": "courriers",
-        "img": "Agrafes/client/public/assets/products/papeterie/courriers/9.webp"
+        "img": "/products/papeterie/courriers/9.webp"
     },
     {
         "nom": "Pastilles adhésives Ø 15 mm couleurs - Pochette de 168 gommettes ",
@@ -1140,7 +1140,7 @@
         },
         "type": "papeterie",
         "subtype": "courriers",
-        "img": "Agrafes/client/public/assets/products/papeterie/courriers/10.webp"
+        "img": "/products/papeterie/courriers/10.webp"
     },
     {
         "nom": "Imprimés recommandés A4 - boîte de 150",
@@ -1154,7 +1154,7 @@
         },
         "type": "papeterie",
         "subtype": "courriers",
-        "img": "Agrafes/client/public/assets/products/papeterie/courriers/11.webp"
+        "img": "/products/papeterie/courriers/11.webp"
     },
     {
         "nom": "Cire à cacheter",
@@ -1166,7 +1166,7 @@
         },
         "type": "papeterie",
         "subtype": "courriers",
-        "img": "Agrafes/client/public/assets/products/papeterie/courriers/12.webp"
+        "img": "/products/papeterie/courriers/12.webp"
     },
     {
         "nom": "Ramette papier blanc Clairalfa A4 80 gr de Clairefontaine - 500 feuilles",
@@ -1182,7 +1182,7 @@
         },
         "type": "papeterie",
         "subtype": "papiers",
-        "img": "Agrafes/client/public/assets/products/papeterie/papiers/1.webp"
+        "img": "/products/papeterie/papiers/1.webp"
     },
     {
         "nom": "Boîte de 2500 feuilles de papier Maxiburo Speed - A4 80g blanc",
@@ -1198,7 +1198,7 @@
         },
         "type": "papeterie",
         "subtype": "papiers",
-        "img": "Agrafes/client/public/assets/products/papeterie/papiers/2.webp"
+        "img": "/products/papeterie/papiers/2.webp"
     },
     {
         "nom": "Ramette papier Clairefontaine Clairalfa A3 80 g - 500 feuilles - blanc",
@@ -1214,7 +1214,7 @@
         },
         "type": "papeterie",
         "subtype": "papiers",
-        "img": "Agrafes/client/public/assets/products/papeterie/papiers/3.webp"
+        "img": "/products/papeterie/papiers/3.webp"
     },
     {
         "nom": "Ramette papier Clairefontaine Clairalfa A5 14,8 x 21 cm - 80 gr - 500 feuilles - blanc",
@@ -1230,7 +1230,7 @@
         },
         "type": "papeterie",
         "subtype": "papiers",
-        "img": "Agrafes/client/public/assets/products/papeterie/papiers/4.webp"
+        "img": "/products/papeterie/papiers/4.webp"
     },
     {
         "nom": "Papier listing Exacompta traitement de texte 2 exemplaires 240 x 305 mm - Carton de 1000",
@@ -1247,7 +1247,7 @@
         },
         "type": "papeterie",
         "subtype": "papiers",
-        "img": "Agrafes/client/public/assets/products/papeterie/papiers/5.webp"
+        "img": "/products/papeterie/papiers/5.webp"
     },
     {
         "nom": "Papier listing traitement de texte 240 x 280 mm - Carton de 2000",
@@ -1264,7 +1264,7 @@
         },
         "type": "papeterie",
         "subtype": "papiers",
-        "img": "Agrafes/client/public/assets/products/papeterie/papiers/6.webp"
+        "img": "/products/papeterie/papiers/6.webp"
     },
     {
         "nom": "Papier photo semi-glacé HP Everyday A4 200 g - 100 feuilles",
@@ -1281,7 +1281,7 @@
         },
         "type": "papeterie",
         "subtype": "papiers",
-        "img": "Agrafes/client/public/assets/products/papeterie/papiers/7.webp"
+        "img": "/products/papeterie/papiers/7.webp"
     },
     {
         "nom": "Papier photo couché Epson A3 100 g - 100 feuilles",
@@ -1298,7 +1298,7 @@
         },
         "type": "papeterie",
         "subtype": "papiers",
-        "img": "Agrafes/client/public/assets/products/papeterie/papiers/8.webp"
+        "img": "/products/papeterie/papiers/8.webp"
     },
     {
         "nom": "Pamette papier mat Clairefontaine DCP A3 160 gr - 250 feuilles - blanc",
@@ -1313,7 +1313,7 @@
         },
         "type": "papeterie",
         "subtype": "papiers",
-        "img": "Agrafes/client/public/assets/products/papeterie/papiers/9.webp"
+        "img": "/products/papeterie/papiers/9.webp"
     },
     {
         "nom": "Ramette 250 feuilles papier extra Blanc satiné PRO DESIGN A4 250G CIE 168",
@@ -1328,7 +1328,7 @@
         },
         "type": "papeterie",
         "subtype": "papiers",
-        "img": "Agrafes/client/public/assets/products/papeterie/papiers/10.webp"
+        "img": "/products/papeterie/papiers/10.webp"
     },
     {
         "nom": "Rouleau calque, l 297 mm x L 20 m, très transparent ",
@@ -1342,7 +1342,7 @@
         },
         "type": "papeterie",
         "subtype": "papiers",
-        "img": "Agrafes/client/public/assets/products/papeterie/papiers/11.webp"
+        "img": "/products/papeterie/papiers/11.webp"
     },
     {
         "nom": "Kraft vergé rame 250F A4 90g",
@@ -1356,6 +1356,6 @@
         },
         "type": "papeterie",
         "subtype": "papiers",
-        "img": "Agrafes/client/public/assets/products/papeterie/papiers/12.webp"
+        "img": "/products/papeterie/papiers/12.webp"
     }
 ]

@@ -1,7 +1,9 @@
-import React from "react";
-
 const BackToTop = () => {
-  return <a href="#top">Retourner en haut de la page</a>;
+  return (
+    <a href="#top" className="backtotop">
+      - Retourner en haut de la page -
+    </a>
+  );
 };
 
 export default BackToTop;

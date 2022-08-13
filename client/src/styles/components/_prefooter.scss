@@ -1,0 +1,29 @@
+.preFooter {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  background-color: $color-1;
+
+  .delivery,
+  .payment,
+  .return {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    &-text {
+      color: white;
+      font-size: 18px;
+      margin-bottom: 1rem;
+    }
+  }
+}
+.fa-truck,
+.fa-rotate-left,
+.fa-credit-card {
+  width: 2rem;
+  height: 2rem;
+  color: white;
+  padding: 1rem;
+  margin-top: 1rem;
+}

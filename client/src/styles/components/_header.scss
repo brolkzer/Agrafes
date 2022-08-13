@@ -4,7 +4,7 @@ header {
   justify-content: space-between;
   gap: 1rem;
   background-color: $color-2;
-  width: 100vw;
+  max-width: 100vw;
   .headerLeft {
     display: flex;
     flex-direction: row;
@@ -97,7 +97,7 @@ header {
       justify-content: center;
       gap: 1rem;
       margin-right: 1rem;
-      min-width: 185px;
+      min-width: 180px;
 
       .cartButton {
         border-radius: 100%;

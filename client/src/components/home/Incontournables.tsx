@@ -1,4 +1,3 @@
-import React from "react";
 import Incontournables_list from "./Incontournables_list";
 
 const Incontournables = () => {
