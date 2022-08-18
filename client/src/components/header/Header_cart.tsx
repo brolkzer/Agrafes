@@ -7,12 +7,12 @@ import { isEmpty } from "../../utils/IsEmpty";
 const Header_cart = () => {
   const cartData = useSelector((state: any) => state.cartReducer);
   const productsData = useSelector((state: any) => state.productsReducer);
-  const [cartPrice, setCartPrice] = useState<number>(0);
+  const [cartPrice, setCartPrice] = useState<string>();
   const relocateToCart = () => {
     window.location.href = "/Cart";
   };
 
-  const getTotalCartPrice = (): any => {
+  const getTotalCartPrice = (): string | undefined => {
     if (!isEmpty(cartData) && !isEmpty(productsData)) {
       let itemsPrice = 0;
       let eachItemPrice = 0;
@@ -32,6 +32,7 @@ const Header_cart = () => {
   useEffect(() => {
     if (!isEmpty(cartData) && !isEmpty(productsData))
       setCartPrice(getTotalCartPrice());
+    console.log(typeof cartPrice);
   }, [Header_cart, getTotalCartPrice]);
 
   return (
