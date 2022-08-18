@@ -1,6 +1,7 @@
 import About from "./pages/About";
 import Home from "./pages/Home";
 import Product from "./pages/Product";
+import Cart from "./pages/Cart";
 import Auth from "./components/auth/authConditionner";
 import { Routes, Route } from "react-router-dom";
 import { useEffect, useState } from "react";
@@ -26,6 +27,7 @@ function App() {
         <Route path="/Auth" element={<Auth uid={uid} />} />
         <Route path="/About" element={<About uid={uid} />} />
         <Route path="/Product" element={<Product uid={uid} />} />
+        <Route path="/Cart" element={<Cart uid={uid} />} />
         <Route path="*" element={<Home uid={uid} />} />
       </Routes>
     </>

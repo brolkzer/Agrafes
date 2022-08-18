@@ -44,6 +44,27 @@
       justify-content: space-between;
       width: 100%;
 
+      .cartSide {
+        display: flex;
+        gap: 1rem;
+
+        input[type="number"] {
+          width: 100px;
+          padding: 0.5rem;
+          padding-left: 1rem;
+          border: 1px solid $color-1;
+          border-radius: 25px;
+          font-size: 16px;
+          font-weight: 500;
+          font-family: $font-1, sans-serif;
+          color: $black-light;
+
+          &:focus-visible {
+            outline: 2px solid $color-1;
+          }
+        }
+      }
+
       button {
         background-color: $color-1;
         border: 1px solid $color-1;
@@ -68,6 +89,7 @@
     }
 
     &-img {
+      margin-top: 3rem;
       &-img {
         border: 2px solid $color-1;
         border-radius: 25px;

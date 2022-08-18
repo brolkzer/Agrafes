@@ -18,17 +18,14 @@ const ProductSpec = ({ productData }: productDataProps) => {
             if (productSpec.length != 0) {
               return (
                 <>
-                  <ul key={spec} className="product-spec-list-map">
-                    <li
-                      key={spec.split(":")[0]}
-                      className="product-spec-list-map-key"
-                    >
+                  <ul
+                    key={Math.random() * Math.random()}
+                    className="product-spec-list-map"
+                  >
+                    <li className="product-spec-list-map-key">
                       {spec.split(":")[0] + " : "}
                     </li>
-                    <li
-                      key={spec.split(":")[1]}
-                      className="product-spec-list-map-value"
-                    >
+                    <li className="product-spec-list-map-value">
                       {spec.split(":")[1]}
                     </li>
                   </ul>

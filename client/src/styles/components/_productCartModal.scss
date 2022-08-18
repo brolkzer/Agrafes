@@ -1,0 +1,16 @@
+.productCartModal {
+  background: $color-1;
+  border-radius: 30px;
+  width: 25rem;
+  aspect-ratio: 5 / 1;
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 18px;
+  display: none;
+}

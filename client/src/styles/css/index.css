@@ -8,6 +8,10 @@
   text-decoration: none;
 }
 
+*:focus-visible {
+  outline: none;
+}
+
 body {
   background: rgb(226, 226, 226);
   font-family: "Baloo 2", cursive;
@@ -58,18 +62,21 @@ header .headerLeft .headerForm {
 }
 header .headerLeft .headerForm h1 {
   font-size: 32px;
-  color: #00568c;
+  color: rgb(0, 86, 140);
 }
 header .headerLeft .headerForm form input {
   width: 100%;
   padding: 0.5rem;
   padding-left: 1rem;
-  border: 1px solid #00568c;
+  border: 1px solid rgb(0, 86, 140);
   border-radius: 25px;
   font-size: 18px;
   font-weight: 600;
   font-family: "Baloo 2", cursive, sans-serif;
   color: rgb(50, 50, 50);
+}
+header .headerLeft .headerForm form input:focus-visible {
+  outline: 2px solid rgb(0, 86, 140);
 }
 header .headerRight {
   display: -webkit-box;
@@ -104,15 +111,14 @@ header .headerRight .accountDiv {
 header .headerRight .accountDiv .accountIcon .fa-user {
   width: 2rem;
   height: 2rem;
-  color: #00568c;
-  border: 2px solid rgb(255, 222, 89);
+  color: rgb(0, 86, 140);
   border-radius: 100%;
   background-color: white;
   padding: 1rem;
   cursor: pointer;
 }
 header .headerRight .accountDiv .accountIcon .fa-user:hover {
-  border: 2px solid #00568c;
+  outline: 2px solid rgb(0, 86, 140);
 }
 header .headerRight .accountDiv .accountMenu .logRedir {
   text-decoration: underline;
@@ -122,7 +128,7 @@ header .headerRight .accountDiv .accountMenu .logRedir:hover {
 }
 header .headerRight .accountDiv .accountMenu p {
   font-size: 20px;
-  color: #00568c;
+  color: rgb(0, 86, 140);
 }
 header .headerRight .cartDiv {
   display: -webkit-box;
@@ -146,23 +152,36 @@ header .headerRight .cartDiv .cartButton {
   border-radius: 100%;
   border: 1px solid rgb(255, 222, 89);
   background-color: white;
+  position: relative;
 }
 header .headerRight .cartDiv .cartButton .fa-cart-shopping {
   width: 2rem;
   height: 2rem;
-  color: #00568c;
-  border: 2px solid rgb(255, 222, 89);
+  color: rgb(0, 86, 140);
   border-radius: 100%;
   background-color: white;
   padding: 1rem;
   cursor: pointer;
 }
 header .headerRight .cartDiv .cartButton .fa-cart-shopping:hover {
-  border: 2px solid #00568c;
+  outline: 2px solid rgb(0, 86, 140);
+}
+header .headerRight .cartDiv .cartButton .cartLength {
+  position: absolute;
+  top: -10px;
+  right: -15px;
+  background-color: red;
+  border-radius: 100%;
+  padding: 0.5rem;
+  color: white;
+  font-weight: 700;
+  font-size: 16px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 header .headerRight .cartDiv .cartDetails p {
   font-size: 20px;
-  color: #00568c;
+  font-weight: 600;
+  color: rgb(0, 86, 140);
 }
 
 .authDiv .already-logged {
@@ -208,7 +227,7 @@ header .headerRight .cartDiv .cartDetails p {
   width: 100%;
   padding: 0.5rem;
   padding-left: 1rem;
-  border: 1px solid #00568c;
+  border: 1px solid rgb(0, 86, 140);
   border-radius: 25px;
   font-size: 18px;
   font-weight: 600;
@@ -262,7 +281,7 @@ header .headerRight .cartDiv .cartDetails p {
       -ms-flex-align: center;
           align-items: center;
   background-color: rgb(226, 226, 226);
-  color: #00568c;
+  color: rgb(0, 86, 140);
   font-weight: 600;
   font-size: 22px;
   border-radius: 0 0 25px 25px;
@@ -309,7 +328,7 @@ header .headerRight .cartDiv .cartDetails p {
           align-items: center;
 }
 .footer-rs-text {
-  color: #00568c;
+  color: rgb(0, 86, 140);
   font-size: 20px;
   font-weight: 500;
   margin-top: 1rem;
@@ -351,7 +370,7 @@ header .headerRight .cartDiv .cartDetails p {
   margin-top: 1rem;
 }
 .footer-sc-text {
-  color: #00568c;
+  color: rgb(0, 86, 140);
   font-size: 20px;
   font-weight: 500;
   margin-bottom: 1rem;
@@ -384,7 +403,7 @@ header .headerRight .cartDiv .cartDetails p {
   margin-bottom: 1rem;
 }
 .footer-sc-desc p {
-  color: #00568c;
+  color: rgb(0, 86, 140);
   font-size: 18px;
   font-weight: 500;
   text-align: center;
@@ -402,7 +421,7 @@ header .headerRight .cartDiv .cartDetails p {
   -webkit-box-pack: space-evenly;
       -ms-flex-pack: space-evenly;
           justify-content: space-evenly;
-  background-color: #00568c;
+  background-color: rgb(0, 86, 140);
 }
 .preFooter .delivery,
 .preFooter .payment,
@@ -444,11 +463,34 @@ header .headerRight .cartDiv .cartDetails p {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  color: #00568c;
+  color: rgb(0, 86, 140);
   font-size: 18px;
   font-weight: 500;
   margin-bottom: 1rem;
   margin-top: 1rem;
+}
+
+.productCartModal {
+  background: rgb(0, 86, 140);
+  border-radius: 30px;
+  width: 25rem;
+  aspect-ratio: 5/1;
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  margin: auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: white;
+  font-size: 18px;
+  display: none;
 }
 
 .bgAuth {
@@ -507,7 +549,7 @@ header .headerRight .cartDiv .cartDetails p {
 .bgAuth .authButtons .authButton:hover {
   cursor: pointer;
   font-size: 20px;
-  border: 0px solid #00568c;
+  border: 0px solid rgb(0, 86, 140);
 }
 
 .homeDiv .homeDesc {
@@ -526,11 +568,11 @@ header .headerRight .cartDiv .cartDetails p {
           flex-direction: column;
 }
 .homeDiv .homeDesc h2 {
-  color: #00568c;
+  color: rgb(0, 86, 140);
   margin: 1rem 0 1rem 0;
 }
 .homeDiv .homeDesc p {
-  color: #00568c;
+  color: rgb(0, 86, 140);
   margin: 0 0 1rem 0;
   font-size: 20px;
   font-weight: 500;
@@ -574,7 +616,7 @@ header .headerRight .cartDiv .cartDetails p {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  color: #00568c;
+  color: rgb(0, 86, 140);
   font-size: 30px;
   margin: 2rem 0 2rem 2rem;
 }
@@ -700,7 +742,7 @@ header .headerRight .cartDiv .cartDetails p {
   list-style-type: none;
 }
 .product-page .product-tree-structure ul li {
-  color: #00568c;
+  color: rgb(0, 86, 140);
   font-weight: 500;
 }
 .product-page .product-data {
@@ -711,7 +753,7 @@ header .headerRight .cartDiv .cartDetails p {
   gap: 1rem;
 }
 .product-page .product-data-name {
-  color: #00568c;
+  color: rgb(0, 86, 140);
   font-size: 20px;
   font-weight: 600;
 }
@@ -727,9 +769,29 @@ header .headerRight .cartDiv .cartDetails p {
           justify-content: space-between;
   width: 100%;
 }
+.product-page .product-data-buy .cartSide {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 1rem;
+}
+.product-page .product-data-buy .cartSide input[type=number] {
+  width: 100px;
+  padding: 0.5rem;
+  padding-left: 1rem;
+  border: 1px solid rgb(0, 86, 140);
+  border-radius: 25px;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: "Baloo 2", cursive, sans-serif;
+  color: rgb(50, 50, 50);
+}
+.product-page .product-data-buy .cartSide input[type=number]:focus-visible {
+  outline: 2px solid rgb(0, 86, 140);
+}
 .product-page .product-data-buy button {
-  background-color: #00568c;
-  border: 1px solid #00568c;
+  background-color: rgb(0, 86, 140);
+  border: 1px solid rgb(0, 86, 140);
   border-radius: 50px;
   padding: 1rem;
   margin-right: 1rem;
@@ -744,10 +806,13 @@ header .headerRight .cartDiv .cartDetails p {
 .product-page .product-data-buy span {
   font-size: 26px;
   font-weight: 600;
-  color: #00568c;
+  color: rgb(0, 86, 140);
+}
+.product-page .product-data-img {
+  margin-top: 3rem;
 }
 .product-page .product-data-img-img {
-  border: 2px solid #00568c;
+  border: 2px solid rgb(0, 86, 140);
   border-radius: 25px;
   max-width: 100%;
   max-height: 100%;
@@ -756,7 +821,7 @@ header .headerRight .cartDiv .cartDetails p {
   width: 100%;
   font-size: 20px;
   font-weight: 500;
-  color: #00568c;
+  color: rgb(0, 86, 140);
 }
 .product-page .product-data-similarProducts-list ul {
   display: grid;
@@ -857,12 +922,12 @@ header .headerRight .cartDiv .cartDetails p {
   margin: 1rem 0 0 1rem;
 }
 .product-page .product-desc h2 {
-  color: #00568c;
+  color: rgb(0, 86, 140);
   font-size: 30px;
   margin-bottom: 2rem;
 }
 .product-page .product-desc p {
-  color: #00568c;
+  color: rgb(0, 86, 140);
   font-size: 18px;
   font-weight: 500;
   max-width: 75%;
@@ -884,7 +949,7 @@ header .headerRight .cartDiv .cartDetails p {
   margin-top: 2rem;
 }
 .product-page .product-spec h3 {
-  color: #00568c;
+  color: rgb(0, 86, 140);
   font-size: 30px;
   margin-bottom: 2rem;
 }
@@ -905,9 +970,137 @@ header .headerRight .cartDiv .cartDetails p {
 }
 .product-page .product-spec-list-map-value, .product-page .product-spec-list-map-key {
   font-size: 18px;
-  color: #00568c;
+  color: rgb(0, 86, 140);
   text-transform: uppercase;
 }
 .product-page .product-spec-list-map-key {
   font-weight: 600;
+}
+
+.cartPage p {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-size: 24px;
+  font-weight: 600;
+  color: rgb(0, 86, 140);
+  margin-top: 1rem;
+}
+.cartPage-list {
+  margin: 2rem;
+  display: grid;
+  grid-template-columns: 200px 3fr 100px 1fr;
+  background-color: white;
+  border-radius: 20px;
+  -webkit-box-shadow: rgba(0, 86, 140, 0.4) 5px 5px, rgba(0, 86, 140, 0.3) 10px 10px, rgba(0, 86, 140, 0.2) 15px 15px, rgba(0, 86, 140, 0.1) 20px 20px, rgba(0, 86, 140, 0.05) 25px 25px;
+          box-shadow: rgba(0, 86, 140, 0.4) 5px 5px, rgba(0, 86, 140, 0.3) 10px 10px, rgba(0, 86, 140, 0.2) 15px 15px, rgba(0, 86, 140, 0.1) 20px 20px, rgba(0, 86, 140, 0.05) 25px 25px;
+  z-index: 0;
+}
+.cartPage-list-img {
+  background: no-repeat;
+  background-size: cover;
+  height: 200px;
+  border-radius: 20px;
+  z-index: 1;
+}
+.cartPage-list-desc {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+.cartPage-list-desc-nom {
+  font-size: 20px;
+  font-weight: 600;
+  color: rgb(0, 86, 140);
+  padding-right: 1rem;
+}
+.cartPage-list-desc-description {
+  color: rgb(0, 86, 140);
+  padding-right: 1rem;
+  font-size: 18px;
+  max-height: 180px;
+  overflow: hidden;
+}
+.cartPage-list-quantity {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.cartPage-list-quantity input[type=number] {
+  width: 100px;
+  padding: 0.5rem;
+  padding-left: 1rem;
+  border: 1px solid rgb(0, 86, 140);
+  border-radius: 25px;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: "Baloo 2", cursive, sans-serif;
+  color: rgb(50, 50, 50);
+}
+.cartPage-list-quantity input[type=number]:focus-visible {
+  outline: 2px solid rgb(0, 86, 140);
+}
+.cartPage-list-quantity button {
+  width: 100px;
+  font-family: "Baloo 2", cursive;
+  font-weight: 400;
+  font-size: 20px;
+  color: white;
+  background-color: rgb(0, 86, 140);
+  border-radius: 25px;
+  padding: 0.5rem;
+  border: 1px solid rgb(0, 86, 140);
+}
+.cartPage-list-quantity button:hover {
+  cursor: pointer;
+}
+.cartPage-list-quantity p {
+  font-size: 22px;
+  font-weight: 500;
+  color: rgb(0, 86, 140);
+}
+.cartPage-list-price {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.cartPage-list-price p {
+  font-size: 20px;
+  color: rgb(0, 86, 140);
+}
+.cartPage-list-price p span {
+  font-weight: 600;
+  color: rgb(0, 86, 140);
 }/*# sourceMappingURL=index.css.map */

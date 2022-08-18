@@ -1,5 +1,7 @@
+import { useRef } from "react";
 import { useSelector } from "react-redux";
 import { isEmpty } from "../../utils/IsEmpty";
+import AddToCartButton from "./AddToCartButton";
 import ProductSpec from "./ProductSpec";
 import ProductTree from "./ProductTree";
 import SimilarProductDisplay from "./SimilarProductDisplay";
@@ -27,7 +29,7 @@ const ProductDisplay = ({ productData }: productDataProps) => {
         <div className="product-data-name">{productData.nom}</div>
         <div className="product-data-buy">
           <span>{productData.prix / 10000 + "€"}</span>
-          <button className="addToCartBtn">Ajouter au panier</button>
+          <AddToCartButton productData={productData} />
         </div>
         <div className="product-data-img">
           <img
@@ -43,7 +45,10 @@ const ProductDisplay = ({ productData }: productDataProps) => {
               {!isEmpty(similarProductsData)
                 ? similarProductsData.map((similarProduct: any | object) => {
                     return (
-                      <SimilarProductDisplay similarProduct={similarProduct} />
+                      <SimilarProductDisplay
+                        similarProduct={similarProduct}
+                        key={similarProduct._id}
+                      />
                     );
                   })
                 : ""}
