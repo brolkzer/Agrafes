@@ -7,10 +7,14 @@ type uidProps = {
 };
 
 const Header_account = ({ uid }: uidProps) => {
+  const relocateToAuth = () => {
+    window.location.href = "/Auth";
+  };
+
   return (
     <div className="accountDiv">
       <div className="accountIcon">
-        <FontAwesomeIcon icon={faUser} />
+        <FontAwesomeIcon icon={faUser} onClick={() => relocateToAuth()} />
       </div>
       <div className="accountMenu">
         <p>

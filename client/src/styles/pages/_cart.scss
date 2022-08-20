@@ -1,23 +1,148 @@
 .cartPage {
-  p {
+  &-summary {
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    justify-items: center;
     align-items: center;
-    font-size: 24px;
-    font-weight: 600;
-    color: $color-1;
-    margin-top: 1rem;
+    margin-bottom: 2rem;
+
+    &-container {
+      display: flex;
+      flex-direction: column;
+      justify-items: center;
+      width: 85%;
+      border-radius: 20px;
+      margin-top: 2rem;
+      padding: 2rem;
+      background-color: white;
+
+      @media screen and(max-width:1350px) {
+        width: 90%;
+      }
+
+      @media screen and(max-width:1200px) {
+        width: 85%;
+      }
+
+      @media screen and(max-width:1000px) {
+        width: 95%;
+      }
+
+      &-title {
+        font-size: 22px;
+        font-weight: 600;
+        color: $color-1;
+        margin-bottom: 2rem;
+      }
+
+      &-desc {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 1rem;
+
+        @media screen and(max-width:600px) {
+          flex-direction: column;
+        }
+
+        &-cartToggle {
+          div {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            cursor: pointer;
+            width: 220px;
+            padding: 0.5rem 1rem 0.5rem 1rem;
+            border-radius: 25px;
+            outline: 1px solid $color-1;
+            border: none;
+            background-color: $color-1;
+            color: white;
+            font-size: 18px;
+            font-weight: 600;
+            font-family: $font-1;
+
+            &:hover {
+              outline: 2px solid $color-1;
+            }
+          }
+        }
+
+        &-totalAmount {
+          p {
+            color: $color-1;
+            font-size: 19px;
+            font-weight: 500;
+            font-family: $font-1;
+
+            span {
+              font-weight: 600;
+            }
+          }
+        }
+
+        &-paymentButton {
+          button {
+            cursor: pointer;
+            padding: 0.5rem 1rem 0.5rem 1rem;
+            border-radius: 25px;
+            outline: 1px solid $color-1;
+            border: none;
+            background-color: $color-2;
+            color: $color-1;
+            font-size: 18px;
+            font-weight: 600;
+            font-family: $font-1;
+
+            &:hover {
+              outline: 2px solid $color-1;
+            }
+          }
+        }
+      }
+    }
   }
+
+  .cartToggler-invisible {
+    height: 0px;
+    transform: scaleY(0);
+    transform-origin: top;
+    transition: 0s;
+  }
+  .cartToggler-visible {
+    height: min-content;
+    transform: scaleY(1);
+    transform-origin: top;
+    transition: 1s;
+  }
+
   &-list {
     margin: 2rem;
     display: grid;
-    grid-template-columns: 200px 3fr 100px 1fr;
+    grid-template-columns: 200px 2fr 100px 1fr;
     background-color: white;
     border-radius: 20px;
+    border: 1px solid $color-1;
     box-shadow: rgba(0, 86, 140, 0.4) 5px 5px, rgba(0, 86, 140, 0.3) 10px 10px,
       rgba(0, 86, 140, 0.2) 15px 15px, rgba(0, 86, 140, 0.1) 20px 20px,
       rgba(0, 86, 140, 0.05) 25px 25px;
     z-index: 0;
+
+    @media screen and(max-width:1000px) {
+      grid-template-columns: 200px 2fr 100px 1fr;
+    }
+
+    @media screen and(max-width:800px) {
+      grid-template-columns: 200px 1fr;
+    }
+
+    @media screen and(max-width:600px) {
+      grid-template-columns: 1fr;
+    }
+
+    @media screen and(max-width:310px) {
+      margin: 2rem 0 0 0;
+    }
 
     &-img {
       background: no-repeat;
@@ -25,6 +150,15 @@
       height: 200px;
       border-radius: 20px;
       z-index: 1;
+
+      @media screen and(max-width:600px) {
+        height: 300px;
+        margin-bottom: 1rem;
+      }
+
+      @media screen and(max-width:425px) {
+        height: 150px;
+      }
     }
 
     &-desc {
@@ -37,14 +171,30 @@
         font-weight: 600;
         color: $color-1;
         padding-right: 1rem;
+
+        @media screen and(max-width:800px) {
+          margin-bottom: 1rem;
+        }
+
+        @media screen and(max-width:600px) {
+          text-align: center;
+        }
       }
 
       &-description {
         color: $color-1;
         padding-right: 1rem;
         font-size: 18px;
-        max-height: 180px;
+        max-height: 170px;
         overflow: hidden;
+
+        @media screen and(max-width:800px) {
+          margin-bottom: 1rem;
+        }
+
+        @media screen and(max-width:600px) {
+          text-align: center;
+        }
       }
     }
 
@@ -53,6 +203,11 @@
       flex-direction: column;
       justify-content: space-evenly;
       align-items: center;
+
+      @media screen and(max-width:800px) {
+        display: flex;
+        flex-direction: row;
+      }
 
       input[type="number"] {
         width: 100px;
@@ -67,6 +222,14 @@
 
         &:focus-visible {
           outline: 2px solid $color-1;
+        }
+
+        @media screen and(max-width:1000px) {
+          width: 80px;
+        }
+
+        @media screen and(max-width:800px) {
+          margin-bottom: 1rem;
         }
       }
 
@@ -84,6 +247,14 @@
         &:hover {
           cursor: pointer;
         }
+
+        @media screen and(max-width:1000px) {
+          width: 80px;
+        }
+
+        @media screen and(max-width:800px) {
+          margin-bottom: 1rem;
+        }
       }
 
       p {
@@ -99,14 +270,48 @@
       justify-content: space-evenly;
       align-items: center;
 
+      @media screen and(max-width:600px) {
+        margin-bottom: 1rem;
+      }
+
       p {
         font-size: 20px;
+        font-weight: 500;
         color: $color-1;
 
         span {
+          font-size: 20px;
           font-weight: 600;
           color: $color-1;
         }
+      }
+    }
+  }
+
+  .afterCart {
+    &-title {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-bottom: 1rem;
+      color: $color-1;
+      font-size: 28px;
+      font-weight: 600;
+    }
+    .navMenu {
+      width: 100%;
+      height: 450px;
+      background: url("/assets/home_bg.webp") no-repeat;
+      background-size: cover;
+      background-position: 50%;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-evenly;
+      align-items: center;
+
+      @media screen and(max-width:1200px) {
+        flex-direction: column;
+        height: 900px;
       }
     }
   }

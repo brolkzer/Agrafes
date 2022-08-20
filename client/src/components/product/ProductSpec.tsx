@@ -18,10 +18,7 @@ const ProductSpec = ({ productData }: productDataProps) => {
             if (productSpec.length != 0) {
               return (
                 <>
-                  <ul
-                    key={Math.random() * Math.random()}
-                    className="product-spec-list-map"
-                  >
+                  <ul className="product-spec-list-map">
                     <li className="product-spec-list-map-key">
                       {spec.split(":")[0] + " : "}
                     </li>

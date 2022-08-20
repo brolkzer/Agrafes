@@ -1,4 +1,3 @@
-import { useRef } from "react";
 import { useSelector } from "react-redux";
 import { isEmpty } from "../../utils/IsEmpty";
 import AddToCartButton from "./AddToCartButton";
@@ -63,7 +62,7 @@ const ProductDisplay = ({ productData }: productDataProps) => {
       <div className="product-spec">
         {!isEmpty(productData.spec) ? <h3>Fiche technique</h3> : ""}
         <div className="product-spec-list">
-          <ProductSpec productData={productData} />
+          <ProductSpec productData={productData} key={productData} />
         </div>
       </div>
     </>

@@ -51,16 +51,19 @@ const CartItemCard = ({ itemData }: any) => {
       </div>
       <div className="cartPage-list-price">
         <p>
-          Prix unitaire: <span>{itemData.prix / 10000}</span> €
+          Prix unitaire: &nbsp;{" "}
+          <span>{" " + (itemData.prix / 10000).toFixed(2)}</span> €
         </p>
         <p>
-          Prix total:{" "}
+          Prix total: &nbsp;
           <span>
-            {(itemData.prix / 10000) *
+            {(
+              (itemData.prix / 10000) *
               (!isEmpty(cartData)
                 ? cartData.find((item: any) => item.id == itemData._id).quantity
-                : null)}
-          </span>{" "}
+                : null)
+            ).toFixed(2)}
+          </span>
           €
         </p>
       </div>

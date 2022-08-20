@@ -1,4 +1,15 @@
 .authDiv {
+  @media screen and(max-width:800px) {
+    min-width: 500px;
+  }
+
+  @media screen and(max-width:600px) {
+    min-width: 400px;
+  }
+
+  @media screen and(max-width:450px) {
+    min-width: 300px;
+  }
   .already-logged {
     margin-bottom: 1rem;
     color: white;
@@ -30,6 +41,14 @@
         font-weight: 600;
         font-family: $font-1, sans-serif;
         color: $black-light;
+
+        @media screen and(max-width:800px) {
+          max-width: 350px;
+        }
+
+        @media screen and(max-width:600px) {
+          max-width: 250px;
+        }
       }
 
       input[type="submit"] {

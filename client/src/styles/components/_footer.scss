@@ -5,6 +5,10 @@
   align-items: center;
   background-color: $color-2;
 
+  @media screen and(max-width:600px) {
+    flex-direction: column;
+  }
+
   &-rs {
     display: flex;
     flex-direction: column;

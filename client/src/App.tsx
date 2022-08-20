@@ -9,6 +9,7 @@ import { onAuthStateChanged } from "firebase/auth";
 import { auth } from "./utils/firebaseConnection";
 import { useDispatch } from "react-redux";
 import { getAllProducts } from "./actions/products.actions";
+import Browse from "./pages/Browse";
 
 function App() {
   const [uid, setUid] = useState<object | any>(null);
@@ -28,6 +29,7 @@ function App() {
         <Route path="/About" element={<About uid={uid} />} />
         <Route path="/Product" element={<Product uid={uid} />} />
         <Route path="/Cart" element={<Cart uid={uid} />} />
+        <Route path="/Browse" element={<Browse uid={uid} />} />
         <Route path="*" element={<Home uid={uid} />} />
       </Routes>
     </>
