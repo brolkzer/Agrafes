@@ -8,6 +8,10 @@
     display: flex;
     margin: 1rem 0 0 1rem;
 
+    @media screen and(max-width:800px) {
+      flex-direction: column;
+    }
+
     &-root:hover {
       cursor: pointer;
       text-decoration: underline;
@@ -17,6 +21,11 @@
       display: flex;
       gap: 1rem;
       list-style-type: none;
+
+      @media screen and(max-width:800px) {
+        display: grid;
+        grid-template-columns: 1fr 0fr;
+      }
 
       li {
         color: $color-1;
@@ -28,14 +37,29 @@
   .product-data {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    justify-items: center;
+    justify-content: center;
     margin: 2rem 0 2rem 0;
     gap: 1rem;
+
+    @media screen and(max-width:1200px) {
+      grid-template-columns: 1fr;
+    }
 
     &-name {
       color: $color-1;
       font-size: 20px;
       font-weight: 600;
+      text-align: center;
+      justify-content: center;
+
+      @media screen and(max-width:700px) {
+        align-self: center;
+      }
+
+      @media screen and(max-width:450px) {
+        align-self: center;
+        margin: 0 20px 0 20px;
+      }
     }
 
     &-buy {
@@ -44,9 +68,23 @@
       justify-content: space-between;
       width: 100%;
 
+      @media screen and(max-width:1200px) {
+        justify-content: center;
+        gap: 1rem;
+      }
+
+      @media screen and(max-width:450px) {
+        flex-direction: column;
+      }
+
       .cartSide {
         display: flex;
         gap: 1rem;
+
+        @media screen and(max-width:300px) {
+          flex-direction: column;
+          align-items: center;
+        }
 
         input[type="number"] {
           width: 100px;
@@ -89,12 +127,20 @@
     }
 
     &-img {
+      display: flex;
+      justify-content: center;
       margin-top: 3rem;
+
       &-img {
         border: 2px solid $color-1;
         border-radius: 25px;
         max-width: 100%;
         max-height: 100%;
+
+        @media screen and(max-width:700px) {
+          max-width: 90%;
+          max-height: 90%;
+        }
       }
     }
 
@@ -104,11 +150,23 @@
       font-weight: 500;
       color: $color-1;
 
+      p {
+        @media screen and(max-width:600px) {
+          text-align: center;
+          font-weight: 600;
+        }
+      }
+
       &-list {
         ul {
           display: grid;
           grid-template-columns: 1fr 1fr;
+          justify-items: center;
           gap: 1rem;
+
+          @media screen and(max-width:600px) {
+            grid-template-columns: 1fr;
+          }
 
           .similar-product-card {
             background: no-repeat;
@@ -118,6 +176,21 @@
             border-radius: 20px;
             display: flex;
             align-items: flex-end;
+
+            @media screen and(max-width:700px) {
+              height: 240px;
+              width: 70%;
+            }
+
+            @media screen and(max-width:600px) {
+              height: 350px;
+              width: 80%;
+            }
+
+            @media screen and(max-width:300px) {
+              height: 220px;
+              width: 70%;
+            }
 
             &-desc {
               display: flex;
@@ -159,6 +232,9 @@
                 &-description {
                   display: block;
                   font-size: 15px;
+                  @media screen and(max-width:500px) {
+                    display: none;
+                  }
                 }
 
                 &-name {
@@ -223,6 +299,9 @@
         display: flex;
         justify-content: space-between;
         list-style: none;
+        @media screen and(max-width:600px) {
+          flex-direction: column;
+        }
 
         &-value,
         &-key {

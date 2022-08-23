@@ -13,6 +13,7 @@ import Footer from "../components/home/Footer";
 import NavMenu from "../components/home/NavMenu";
 import PreFooter from "../components/home/PreFooter";
 import { isEmpty } from "../utils/IsEmpty";
+import Checkout from "../components/cart/Checkout";
 
 type uidProps = {
   uid: object | any;
@@ -22,6 +23,7 @@ const Cart = ({ uid }: uidProps) => {
   const productsData = useSelector((state: any) => state.productsReducer);
   const [cartPrice, setCartPrice] = useState<string>();
   const [cartToggle, setCartToggle] = useState<boolean>(true);
+  const [paymentModal, setPaymentModal] = useState<boolean>(false);
 
   const getTotalCartPrice = (): string | undefined => {
     if (!isEmpty(cartData) && !isEmpty(productsData)) {
@@ -40,9 +42,10 @@ const Cart = ({ uid }: uidProps) => {
   };
 
   useEffect(() => {
-    if (!isEmpty(cartData) && !isEmpty(productsData))
+    if (!isEmpty(cartData) && !isEmpty(productsData)) {
       setCartPrice(getTotalCartPrice());
-  }, [Cart, getTotalCartPrice]);
+    }
+  }, [Cart, cartData, productsData]);
 
   const handleCartToggle = () => {
     if (cartToggle === true) setCartToggle(false);
@@ -91,7 +94,9 @@ const Cart = ({ uid }: uidProps) => {
                 </p>
               </div>
               <div className="cartPage-summary-container-desc-paymentButton">
-                <button>Valider le panier</button>
+                <button onClick={() => setPaymentModal(true)}>
+                  Valider le panier
+                </button>
               </div>
             </div>
             <ul className="cartToggler cartToggler-visible">
@@ -110,6 +115,28 @@ const Cart = ({ uid }: uidProps) => {
             </ul>
           </div>
         </div>
+        {paymentModal && (
+          <>
+            <div className="coverModal">
+              <div className="paymentModal">
+                <div className="paymentModal-header">
+                  <p className="paymentModal-header-title">
+                    Choisissez votre méthode de paiement
+                  </p>
+                  <span
+                    className="paymentModal-header-cross"
+                    onClick={() => setPaymentModal(false)}
+                  >
+                    &#10005;
+                  </span>
+                </div>
+                <div className="paymentModal-body">
+                  <Checkout cartPrice={cartPrice} />
+                </div>
+              </div>
+            </div>
+          </>
+        )}
         <div className="afterCart">
           <div className="afterCart-title">
             <FontAwesomeIcon icon={faArrowDown} /> &nbsp; Continuer vos achats

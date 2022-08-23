@@ -1,0 +1,72 @@
+.coverModal {
+  background-color: hsla(0, 0%, 0%, 0.7);
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+
+  .paymentModal {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 10vh;
+    left: 50%;
+    transform: translate(-100%);
+    background-color: white;
+    padding: 25px;
+    border-radius: 20px;
+    box-shadow: 0 0 2px rgba(131, 130, 130, 0.356);
+    transform: scaleY(0);
+    transform-origin: center;
+    animation: modal 0.5s forwards;
+
+    &-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      width: 95%;
+      margin-bottom: 1rem;
+
+      &-title {
+        min-width: 200px;
+        margin: 0;
+        font-size: 22px;
+        font-weight: 600;
+        color: $color-1;
+      }
+
+      @keyframes modal {
+        to {
+          transform: scale(1) translate(-50%);
+        }
+      }
+
+      &-cross {
+        cursor: pointer;
+        transform: scale(2);
+      }
+    }
+
+    &-body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+      .paypalButtons {
+        overflow: auto;
+        width: 600px;
+        max-height: 60vh;
+
+        @media screen and(max-width: 700px) {
+          width: 400px;
+        }
+
+        @media screen and(max-width: 500px) {
+          width: 200px;
+        }
+      }
+    }
+  }
+}

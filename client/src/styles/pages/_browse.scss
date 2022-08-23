@@ -1,10 +1,6 @@
 .browsePage {
   display: grid;
-  grid-template-columns: 300px 1fr;
-
-  &-side {
-    background-color: lightcoral;
-  }
+  grid-template-columns: 1fr;
 
   &-products {
     background-color: $white-light;
@@ -13,6 +9,24 @@
       display: grid;
       grid-template-columns: 1fr 1fr 1fr;
       margin: 1rem 0 0 1rem;
+      justify-items: center;
+
+      @media screen and(min-width:1700px) {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+      }
+      @media screen and(max-width:1699px) {
+        grid-template-columns: 1fr 1fr 1fr;
+      }
+      @media screen and(max-width:1150px) {
+        grid-template-columns: 1fr 1fr 1fr;
+        margin: 1rem 1rem 0 1rem;
+      }
+      @media screen and(max-width:850px) {
+        grid-template-columns: 1fr 1fr;
+      }
+      @media screen and(max-width:600px) {
+        grid-template-columns: 1fr;
+      }
 
       .browsePage-products-card {
         background: no-repeat;
@@ -26,6 +40,11 @@
         box-shadow: rgba(0, 0, 0, 0.25) 0px 0.0625em 0.0625em,
           rgba(0, 0, 0, 0.25) 0px 0.125em 0.5em,
           rgba(255, 255, 255, 0.1) 0px 0px 0px 1px inset;
+
+        @media screen and(max-width:1100px) {
+          width: 275px;
+          height: 275px;
+        }
 
         &-desc {
           display: flex;
@@ -44,11 +63,20 @@
             white-space: nowrap;
             overflow: hidden;
             text-overflow: ellipsis;
+
+            @media screen and(max-width:1100px) {
+              font-size: 16px;
+              max-width: 75%;
+            }
           }
 
           &-price {
             font-size: 18px;
             font-weight: 600;
+
+            @media screen and(max-width:1100px) {
+              justify-self: end;
+            }
           }
 
           &-description {
@@ -67,6 +95,9 @@
 
             &-description {
               display: block;
+              @media screen and(max-width:1100px) {
+                display: none;
+              }
             }
 
             &-name {

@@ -6,7 +6,7 @@ const Header = ({ uid }: any) => {
   const browseInputRef = useRef<HTMLInputElement>(null);
   const browseRelocate = (e: any) => {
     e.preventDefault();
-    window.location.href = `/Browse?=${browseInputRef.current?.value}`;
+    window.location.href = `/Browse?=${browseInputRef.current?.value}/1`;
   };
 
   return (

@@ -13,9 +13,9 @@ const Browse_products_card = ({ product }: any) => {
         onClick={() => productRelocate(product._id)}
       >
         <p className="browsePage-products-card-desc-name">{product.nom}</p>
-        <p className="browsePage-products-card-desc-description">
+        <div className="browsePage-products-card-desc-description">
           {product.description}
-        </p>
+        </div>
         <p className="browsePage-products-card-desc-price">
           {product.prix / 10000}€
         </p>

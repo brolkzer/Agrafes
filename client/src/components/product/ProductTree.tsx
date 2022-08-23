@@ -3,8 +3,10 @@ type productDataPropos = {
 };
 
 const relocateToHome = () => (window.location.href = "/Home");
-const relocateToType = () => (window.location.href = "/");
-const relocateToSubtype = () => (window.location.href = "/");
+const relocateToType = (root: string) =>
+  (window.location.href = `/Browse?=${root}/1`);
+const relocateToSubtype = (root: string) =>
+  (window.location.href = `/Browse?=${root}/1`);
 
 const ProductTree = ({ productData }: productDataPropos) => {
   const productTreeStructure = [
@@ -40,7 +42,7 @@ const ProductTree = ({ productData }: productDataPropos) => {
                     <li
                       className="product-tree-structure-root"
                       onClick={() => {
-                        relocateToType();
+                        relocateToType(root);
                       }}
                       key={"Type"}
                     >
@@ -52,7 +54,7 @@ const ProductTree = ({ productData }: productDataPropos) => {
                     <li
                       className="product-tree-structure-root"
                       onClick={() => {
-                        relocateToSubtype();
+                        relocateToSubtype(root);
                       }}
                       key={"Subtype"}
                     >

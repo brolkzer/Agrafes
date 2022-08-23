@@ -1,5 +1,4 @@
-import Browse_prodcuts from "../components/browse/Browse_prodcuts";
-import Browse_side from "../components/browse/Browse_side";
+import Browse_products from "../components/browse/Browse_products";
 import Header from "../components/header/Header";
 import BackToTop from "../components/home/BackToTop";
 import Footer from "../components/home/Footer";
@@ -17,8 +16,7 @@ const Browse = ({ uid }: any) => {
     <>
       <Header uid={uid} />
       <div className="browsePage">
-        <Browse_side />
-        <Browse_prodcuts />
+        <Browse_products />
       </div>
       <BackToTop />
       <PreFooter />
